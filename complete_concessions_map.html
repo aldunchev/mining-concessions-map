@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интерактивна карта на концесиите в България</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header h1 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 2.2em;
+            font-weight: 300;
+        }
+        
+        .header p {
+            margin: 0;
+            color: #7f8c8d;
+            font-size: 1.1em;
+        }
+        
+        .map-container {
+            height: 85vh;
+            position: relative;
+            border-radius: 15px 15px 0 0;
+            overflow: hidden;
+            box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.2);
+        }
+        
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        
+        .controls {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            padding: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            min-width: 250px;
+        }
+        
+        .controls h3 {
+            margin: 0 0 15px 0;
+            color: #2c3e50;
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+        
+        .filter-group {
+            margin-bottom: 15px;
+        }
+        
+        .filter-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #34495e;
+            font-weight: 500;
+            font-size: 0.9em;
+        }
+        
+        .filter-group select, .filter-group input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 2px solid #ecf0f1;
+            border-radius: 8px;
+            background: white;
+            font-size: 0.9em;
+            transition: border-color 0.3s ease;
+        }
+        
+        .filter-group select:focus, .filter-group input:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        
+        .stats {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            padding: 15px 20px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .stats h4 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 1em;
+        }
+        
+        .stats div {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .legend {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            padding: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .legend h4 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 1em;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+            font-size: 0.85em;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            margin-right: 10px;
+            border: 2px solid rgba(255, 255, 255, 0.8);
+        }
+        
+        .confidence-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-left: 5px;
+        }
+        
+        .confidence-high { background: #27ae60; }
+        .confidence-medium { background: #f39c12; }
+        .confidence-low { background: #e74c3c; }
+        
+        /* Custom popup styles */
+        .leaflet-popup-content-wrapper {
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .popup-content {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .popup-content h3 {
+            margin: 0 0 10px 0;
+            color: #2c3e50;
+            font-size: 1.1em;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+        
+        .popup-content p {
+            margin: 5px 0;
+            font-size: 0.9em;
+            color: #34495e;
+        }
+        
+        .popup-content strong {
+            color: #2c3e50;
+        }
+        
+        .data-note {
+            background: rgba(52, 152, 219, 0.1);
+            border: 2px solid rgba(52, 152, 219, 0.3);
+            border-radius: 8px;
+            padding: 10px;
+            margin: 10px 20px;
+            font-size: 0.9em;
+            color: #2c3e50;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🗺️ Интерактивна карта на концесиите в България</h1>
+        <p>338 концесии за добив на полезни изкопаеми с геокодирани локации</p>
+    </div>
+    
+    <div class="data-note">
+        📊 <strong>Извлечено от официален PDF документ:</strong> Успешно геокодирани 331 от 338 концесии (97.9% успеваемост).
+        <br>Точност на координатите: 47% висока, 50% средна, 1% ниска.
+    </div>
+    
+    <div class="map-container">
+        <div id="map"></div>
+        
+        <div class="controls">
+            <h3>🔍 Филтри</h3>
+            <div class="filter-group">
+                <label for="oblast-filter">Област:</label>
+                <select id="oblast-filter">
+                    <option value="">Всички области</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="material-filter">Вид материал:</label>
+                <select id="material-filter">
+                    <option value="">Всички материали</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="confidence-filter">Точност на координатите:</label>
+                <select id="confidence-filter">
+                    <option value="">Всички</option>
+                    <option value="high">Висока</option>
+                    <option value="medium">Средна</option>
+                    <option value="low">Ниска</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="company-filter">Търсене по фирма:</label>
+                <input type="text" id="company-filter" placeholder="Въведете име на фирма...">
+            </div>
+        </div>
+        
+        <div class="stats">
+            <h4>📊 Статистика</h4>
+            <div id="total-count">Общо концесии: 0</div>
+            <div id="visible-count">Показани: 0</div>
+            <div id="selected-oblast">Област: Всички</div>
+            <div id="confidence-stats">Точност: -</div>
+        </div>
+        
+        <div class="legend">
+            <h4>🏷️ Легенда</h4>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #e74c3c;"></div>
+                <span>Строителни материали</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #3498db;"></div>
+                <span>Скално-облицовъчни материали</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #f39c12;"></div>
+                <span>Индустриални минерали</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #9b59b6;"></div>
+                <span>Метални полезни изкопаеми</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #2ecc71;"></div>
+                <span>Твърди горива</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #1abc9c;"></div>
+                <span>Нефт и природен газ</span>
+            </div>
+            <hr style="margin: 10px 0; border: none; border-top: 1px solid #ecf0f1;">
+            <div style="font-size: 0.8em; color: #7f8c8d;">Точност на координатите:</div>
+            <div class="legend-item">
+                <span class="confidence-indicator confidence-high"></span>
+                <span style="margin-left: 10px;">Висока точност</span>
+            </div>
+            <div class="legend-item">
+                <span class="confidence-indicator confidence-medium"></span>
+                <span style="margin-left: 10px;">Средна точност</span>
+            </div>
+            <div class="legend-item">
+                <span class="confidence-indicator confidence-low"></span>
+                <span style="margin-left: 10px;">Ниска точност</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([42.7339, 25.4858], 7);
+
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Global variables
+        let allBulgarianConcessions = [];
+        let markers = [];
+        let markerLayer = L.layerGroup().addTo(map);
+
+        // Color mapping for different material types
+        const materialColors = {
+            'Строителни материали': '#e74c3c',
+            'Скално-облицовъчни материали': '#3498db',
+            'Скално- облицовъчни материали': '#3498db', // Handle different variations
+            'Индустриални минерали': '#f39c12',
+            'Метални полезни изкопаеми': '#9b59b6',
+            'Твърди горива': '#2ecc71',
+            'Нефт и природен газ': '#1abc9c',
+            'Минни отпадъци': '#95a5a6'
+        };
+
+        // Confidence colors for marker borders
+        const confidenceColors = {
+            'high': '#27ae60',
+            'medium': '#f39c12',
+            'low': '#e74c3c'
+        };
+
+        // Embedded JSON data
+        const data =
+                // Process the deposits from JSON
+                allBulgarianConcessions = data.deposits
+                    .filter(d => d.coordinates && d.id !== "Идентифика\rционен No /\rПартиден No\rНКР") // Filter out header row and deposits without coordinates
+                    .map(deposit => {
+                        // Clean up the material group to match our color mapping
+                        let materialGroup = deposit.grupa_bogatstvo.replace(/\r/g, ' ').trim();
+                        
+                        // Map common variations
+                        if (materialGroup.includes('облицовъчни')) {
+                            materialGroup = 'Скално-облицовъчни материали';
+                        } else if (materialGroup.includes('Строителни')) {
+                            materialGroup = 'Строителни материали';
+                        } else if (materialGroup.includes('Индустриални')) {
+                            materialGroup = 'Индустриални минерали';
+                        } else if (materialGroup.includes('Метални')) {
+                            materialGroup = 'Метални полезни изкопаеми';
+                        } else if (materialGroup.includes('горива') || materialGroup.includes('въглища')) {
+                            materialGroup = 'Твърди горива';
+                        } else if (materialGroup.includes('Нефт') || materialGroup.includes('газ')) {
+                            materialGroup = 'Нефт и природен газ';
+                        }
+                        
+                        return {
+                            id: deposit.id,
+                            company: deposit.koncesioner.replace(/\r/g, ' ').trim(),
+                            deposit: deposit.nahodishte,
+                            municipality: deposit.obshtina,
+                            oblast: deposit.oblast,
+                            materialGroup: materialGroup,
+                            materialType: deposit.vid_bogatstvo.replace(/\r/g, ' ').trim(),
+                            coordinates: deposit.coordinates,
+                            confidence: deposit.coordinate_confidence,
+                            term: deposit.srok_koncesiya,
+                            status: deposit.status
+                        };
+                    });
+                
+                // Initialize the map with data
+                createMarkers();
+                populateFilters();
+                filterMarkers();
+                updateStats();
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+                alert('Грешка при зареждане на данните. Моля, уверете се, че файлът mining_deposits.json е в същата директория.');
+            });
+
+        // Create markers for all concessions
+        function createMarkers() {
+            allBulgarianConcessions.forEach(concession => {
+                const color = materialColors[concession.materialGroup] || '#34495e';
+                const borderColor = confidenceColors[concession.confidence] || '#ffffff';
+                
+                const marker = L.circleMarker(concession.coordinates, {
+                    color: borderColor,
+                    weight: 3,
+                    fillColor: color,
+                    fillOpacity: 0.7,
+                    radius: concession.confidence === 'high' ? 9 : (concession.confidence === 'medium' ? 8 : 7)
+                });
+
+                const popupContent = `
+                    <div class="popup-content">
+                        <h3>${concession.deposit}</h3>
+                        <p><strong>Концесия №:</strong> ${concession.id}</p>
+                        <p><strong>Концесионер:</strong> ${concession.company || 'Неизвестен'}</p>
+                        <p><strong>Община:</strong> ${concession.municipality || 'Неизвестна'}</p>
+                        <p><strong>Област:</strong> ${concession.oblast || 'Неизвестна'}</p>
+                        <p><strong>Група материали:</strong> ${concession.materialGroup}</p>
+                        <p><strong>Тип материали:</strong> ${concession.materialType || 'Неизвестен'}</p>
+                        <p><strong>Срок:</strong> ${concession.term || 'Неизвестен'}</p>
+                        <p><strong>Статус:</strong> ${concession.status || 'Неизвестен'}</p>
+                        <p><strong>Точност на координатите:</strong> 
+                            <span class="confidence-indicator confidence-${concession.confidence}"></span>
+                            ${concession.confidence === 'high' ? 'Висока' : 
+                              concession.confidence === 'medium' ? 'Средна' : 'Ниска'}
+                        </p>
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent);
+                marker.concessionData = concession;
+                markers.push(marker);
+                markerLayer.addLayer(marker);
+            });
+        }
+
+        // Populate filter dropdowns
+        function populateFilters() {
+            const oblasts = [...new Set(allBulgarianConcessions.map(c => c.oblast).filter(o => o))].sort();
+            const materials = [...new Set(allBulgarianConcessions.map(c => c.materialGroup).filter(m => m))].sort();
+
+            const oblastSelect = document.getElementById('oblast-filter');
+            const materialSelect = document.getElementById('material-filter');
+
+            oblasts.forEach(oblast => {
+                const option = document.createElement('option');
+                option.value = oblast;
+                option.textContent = oblast;
+                oblastSelect.appendChild(option);
+            });
+
+            materials.forEach(material => {
+                const option = document.createElement('option');
+                option.value = material;
+                option.textContent = material;
+                materialSelect.appendChild(option);
+            });
+        }
+
+        // Filter markers based on criteria
+        function filterMarkers() {
+            const oblastFilter = document.getElementById('oblast-filter').value;
+            const materialFilter = document.getElementById('material-filter').value;
+            const confidenceFilter = document.getElementById('confidence-filter').value;
+            const companyFilter = document.getElementById('company-filter').value.toLowerCase();
+
+            markerLayer.clearLayers();
+            let visibleCount = 0;
+            let confidenceStats = { high: 0, medium: 0, low: 0 };
+
+            markers.forEach(marker => {
+                const data = marker.concessionData;
+                let show = true;
+
+                if (oblastFilter && data.oblast !== oblastFilter) show = false;
+                if (materialFilter && data.materialGroup !== materialFilter) show = false;
+                if (confidenceFilter && data.confidence !== confidenceFilter) show = false;
+                if (companyFilter && !data.company.toLowerCase().includes(companyFilter)) show = false;
+
+                if (show) {
+                    markerLayer.addLayer(marker);
+                    visibleCount++;
+                    if (data.confidence) {
+                        confidenceStats[data.confidence]++;
+                    }
+                }
+            });
+
+            updateStats(visibleCount, confidenceStats);
+        }
+
+        // Update statistics display
+        function updateStats(visibleCount = 0, confidenceStats = { high: 0, medium: 0, low: 0 }) {
+            document.getElementById('total-count').textContent = `Общо концесии: ${allBulgarianConcessions.length}`;
+            document.getElementById('visible-count').textContent = `Показани: ${visibleCount || markers.length}`;
+            
+            const oblastFilter = document.getElementById('oblast-filter').value;
+            document.getElementById('selected-oblast').textContent = `Област: ${oblastFilter || 'Всички'}`;
+            
+            const total = confidenceStats.high + confidenceStats.medium + confidenceStats.low;
+            if (total > 0) {
+                document.getElementById('confidence-stats').textContent = 
+                    `Точност: В:${confidenceStats.high} С:${confidenceStats.medium} Н:${confidenceStats.low}`;
+            } else {
+                document.getElementById('confidence-stats').textContent = 'Точност: -';
+            }
+        }
+
+        // Add event listeners for filters
+        document.getElementById('oblast-filter').addEventListener('change', filterMarkers);
+        document.getElementById('material-filter').addEventListener('change', filterMarkers);
+        document.getElementById('confidence-filter').addEventListener('change', filterMarkers);
+        document.getElementById('company-filter').addEventListener('input', filterMarkers);
+    </script>
+</body>
+</html>
