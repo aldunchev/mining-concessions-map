@@ -16,12 +16,14 @@ Interactive map displaying mining concessions for mineral extraction and constru
 
 **Password**: `ConcessionsBG2024`
 
+**Direct Map URL**: https://aldunchev.github.io/mining-concessions-map/map.html
+
 ## 📋 How to Access
 
 1. Open the website URL in your browser
 2. Enter the password: `ConcessionsBG2024`
 3. Click "DECRYPT" button (or press Enter)
-4. The interactive map will load automatically
+4. The interactive map will load automatically at `/map.html`
 
 ## 🎯 Map Features
 
