@@ -332,8 +332,10 @@
             'low': '#e74c3c'
         };
 
-        // Embedded JSON data
-        const data =
+        // Load JSON data
+        fetch('mining_deposits.json')
+            .then(response => response.json())
+            .then(data => {
                 // Process the deposits from JSON
                 allBulgarianConcessions = data.deposits
                     .filter(d => d.coordinates && d.id !== "Идентифика\rционен No /\rПартиден No\rНКР") // Filter out header row and deposits without coordinates
