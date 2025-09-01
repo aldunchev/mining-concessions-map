@@ -1,7 +1,7 @@
 'use client';
 
-import { useMemo } from 'react';
-import { BarChart3, MapPin, TrendingUp, Database } from 'lucide-react';
+import { useMemo, useState } from 'react';
+import { BarChart3, MapPin, TrendingUp, Database, ChevronUp, ChevronDown } from 'lucide-react';
 import { Deposit } from '@/lib/types';
 import { calculateStatistics } from '@/lib/utils';
 
@@ -11,6 +11,8 @@ interface StatisticsProps {
 }
 
 export default function Statistics({ deposits, filteredDeposits }: StatisticsProps) {
+  const [isExpanded, setIsExpanded] = useState(false);
+  
   const stats = useMemo(() => {
     const all = calculateStatistics(deposits);
     const filtered = calculateStatistics(filteredDeposits);
@@ -31,12 +33,21 @@ export default function Statistics({ deposits, filteredDeposits }: StatisticsPro
 
   return (
     <div className="bg-white rounded-lg shadow-lg p-4">
-      <h2 className="font-semibold text-lg mb-4 flex items-center gap-2">
-        <BarChart3 className="h-5 w-5 text-gray-600" />
-        Статистика
-      </h2>
+      <button 
+        onClick={() => setIsExpanded(!isExpanded)}
+        className="w-full flex items-center justify-between font-semibold text-lg mb-4 lg:cursor-default"
+      >
+        <div className="flex items-center gap-2">
+          <BarChart3 className="h-5 w-5 text-gray-600" />
+          Статистика
+        </div>
+        <div className="lg:hidden">
+          {isExpanded ? <ChevronUp className="h-5 w-5 text-gray-600" /> : <ChevronDown className="h-5 w-5 text-gray-600" />}
+        </div>
+      </button>
 
       {/* Summary Cards */}
+      <div className={`${isExpanded ? 'block' : 'hidden'} lg:block`}>
       <div className="grid grid-cols-2 gap-3 mb-4">
         <StatCard
           icon={<Database className="h-4 w-4" />}
@@ -99,6 +110,7 @@ export default function Statistics({ deposits, filteredDeposits }: StatisticsPro
             </div>
           ))}
         </div>
+      </div>
       </div>
     </div>
   );

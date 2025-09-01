@@ -11,7 +11,7 @@ import { Menu, X } from 'lucide-react';
 // Dynamically import GoogleMap to avoid SSR issues
 const GoogleMapComponent = dynamic(
   () => import('@/components/Map/GoogleMap'),
-  { 
+  {
     ssr: false,
     loading: () => (
       <div className="flex items-center justify-center h-full bg-gray-100">
@@ -28,7 +28,7 @@ export default function Home() {
   const [deposits, setDeposits] = useState<Deposit[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
   const [filters, setFilters] = useState<MapFilters>({
     search: '',
     oblast: [],
@@ -82,14 +82,15 @@ export default function Home() {
   return (
     <div className="h-screen flex flex-col bg-gray-100">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b z-10">
+      <header className={`bg-white shadow-sm border-b z-30 ${sidebarOpen ? 'lg:z-10' : 'z-10'}`}>
         <div className="px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <button
               onClick={() => setSidebarOpen(!sidebarOpen)}
-              className="lg:hidden p-2 hover:bg-gray-100 rounded-md"
+              className="lg:hidden p-2 hover:bg-gray-100 rounded-md transition-colors"
+              aria-label={sidebarOpen ? 'Затваряне на филтрите' : 'Отваряне на филтрите'}
             >
-              {sidebarOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+              {sidebarOpen ? <X className="h-5 w-5 text-gray-700" /> : <Menu className="h-5 w-5 text-gray-700" />}
             </button>
             <h1 className="text-xl font-bold text-gray-900">
               Минни концесии в България
@@ -104,14 +105,25 @@ export default function Home() {
       {/* Main Content */}
       <div className="flex-1 flex relative overflow-hidden">
         {/* Sidebar */}
-        <aside 
+        <aside
           className={`
-            absolute lg:relative inset-y-0 left-0 z-20 w-80 bg-gray-50 
+            absolute lg:relative inset-y-0 left-0 z-20 w-80 bg-gray-50/95 backdrop-blur-sm lg:bg-gray-50
             transform transition-transform duration-300 ease-in-out
             ${sidebarOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}
-            lg:transform-none overflow-y-auto border-r
+            lg:transform-none overflow-y-auto border-r shadow-lg lg:shadow-none
           `}
         >
+          {/* Mobile close button inside sidebar */}
+          <div className="lg:hidden sticky top-0 bg-white/90 backdrop-blur-md p-4 border-b border-gray-200/50 flex justify-between items-center z-10">
+            <h2 className="font-semibold text-gray-900">Филтри и статистика</h2>
+            <button
+              onClick={() => setSidebarOpen(false)}
+              className="p-2 hover:bg-gray-200/70 rounded-full transition-colors"
+              aria-label="Затваряне на филтрите"
+            >
+              <X className="h-5 w-5 text-gray-700" />
+            </button>
+          </div>
           <div className="p-4 space-y-4">
             <FilterPanel
               deposits={deposits}
@@ -138,9 +150,10 @@ export default function Home() {
 
       {/* Mobile Overlay */}
       {sidebarOpen && (
-        <div 
-          className="lg:hidden fixed inset-0 bg-black bg-opacity-50 z-10"
+        <div
+          className="lg:hidden fixed inset-0 bg-black/50 z-10 transition-opacity duration-300"
           onClick={() => setSidebarOpen(false)}
+          aria-label="Затваряне на филтрите"
         />
       )}
     </div>
