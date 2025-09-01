@@ -1,0 +1,5404 @@
+{
+  "metadata": {
+    "total_deposits": 338,
+    "geocoded_deposits": 331,
+    "success_rate": 97.9,
+    "confidence_distribution": {
+      "high": 159,
+      "medium": 169,
+      "low": 3,
+      "none": 7
+    },
+    "extraction_date": "2025-08-29 09:44:56",
+    "source_file": "docs/koncesii_public_proekti.pdf"
+  },
+  "deposits": [
+    {
+      "id": "Идентифика\rционен No /\rПартиден No\rНКР",
+      "koncesioner": "Концесионер",
+      "nahodishte": "Находище",
+      "obshtina": "Община",
+      "oblast": "Област",
+      "grupa_bogatstvo": "Група\rподземно\rбогатство",
+      "vid_bogatstvo": "Вид на\rподземното\rбогатство",
+      "srok_koncesiya": "Срок на\rконцесията",
+      "status": "Цялостен проект\rза добив",
+      "coordinates": [
+        42.801667,
+        23.4214367
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-280",
+      "koncesioner": "Булстоун\" ООД, гр.\rВарна",
+      "nahodishte": "Коларци",
+      "obshtina": "Тервел",
+      "oblast": "Добрич",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        43.84294,
+        27.54335
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-275",
+      "koncesioner": "Катерина-Г и М\"\rЕООД, гр. Вълчедръм",
+      "nahodishte": "Вела, участък\r\"Север\" и участък\r\"Юг\"",
+      "obshtina": "Вълчедръм",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        43.6900754,
+        23.4426025
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-261",
+      "koncesioner": "Европът 2005\" ООД,\rгр. Хасково",
+      "nahodishte": "Янаклъка",
+      "obshtina": "Димитровград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Доломитни\rмрамори",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0582493,
+        25.5916466
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-259",
+      "koncesioner": "Геоцвет\" ЕООД, гр.\rЛовеч",
+      "nahodishte": "Ясака",
+      "obshtina": "Угърчин",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        43.0960171,
+        24.4209919
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-258",
+      "koncesioner": "Хемус - М\" АД, гр.\rМездра",
+      "nahodishte": "Царевец, у-ци\r\"Запад-2007\r(Искър)\",\r\"Централен-2007\"\rи \"Царевец 2-2007\"",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "30 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-256",
+      "koncesioner": "Ескана\" АД, гр. Варна",
+      "nahodishte": "Градец-2",
+      "obshtina": "Котел",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Аркозни\rпясъчници",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        42.7945199,
+        26.54252
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-251",
+      "koncesioner": "Холсим България\"\rАД, с. Бели извор",
+      "nahodishte": "Марудниците,\rучастък\r\"Марудниците-\rзапад\"",
+      "obshtina": "Столична",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "договорът не е\rвлязъл в сила",
+      "coordinates": [
+        42.654318,
+        23.3331572
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-229",
+      "koncesioner": "Еко-Хидро-90\" ООД,\rгр. Пазарджик",
+      "nahodishte": "Конаговски чал",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мраморизирани\rваровици",
+      "srok_koncesiya": "25 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        42.1884549,
+        24.3318993
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-225",
+      "koncesioner": "ЕТ \"Кафадарци-Елхан\rКафадаров\", с.\rПлетена",
+      "nahodishte": "Бистрица",
+      "obshtina": "Сатовча",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Амфиболити и\rгнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6036533,
+        23.9318744
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-224",
+      "koncesioner": "Булмекс\" ЕООД, с.\rБутан",
+      "nahodishte": "Джулиница",
+      "obshtina": "Козлодуй",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        43.7750934,
+        23.7293313
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-223",
+      "koncesioner": "ФНС\" ООД, гр.\rМездра",
+      "nahodishte": "Бешовица",
+      "obshtina": "Роман",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Пясъчници",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.18582,
+        23.8845999
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-126",
+      "koncesioner": "",
+      "nahodishte": "Орешака",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чаклъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0264327,
+        24.3043421
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-130",
+      "koncesioner": "",
+      "nahodishte": "Идилево",
+      "obshtina": "Севлиево",
+      "oblast": "Габрово",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0375759,
+        25.2531953
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-129",
+      "koncesioner": "",
+      "nahodishte": "Айтос",
+      "obshtina": "Айтос",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7018865,
+        27.2520386
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-131",
+      "koncesioner": "",
+      "nahodishte": "Беслен",
+      "obshtina": "Хаджидимово",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.47178,
+        23.96588
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-128",
+      "koncesioner": "",
+      "nahodishte": "Цар Асен - 2",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "Медни руди",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.36227,
+        24.34658
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-132",
+      "koncesioner": "",
+      "nahodishte": "Феникс",
+      "obshtina": "Искър",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък и чакъл",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3895347,
+        24.22982
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-125",
+      "koncesioner": "Черно море\" АД, гр.",
+      "nahodishte": "Хитрино - 3",
+      "obshtina": "Хитрино",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4249455,
+        26.9168625
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "216-123",
+      "koncesioner": "",
+      "nahodishte": "\"Урвата\", \"Лозята\"",
+      "obshtina": "Гърмен",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6744205,
+        23.8195096
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "216-122",
+      "koncesioner": "",
+      "nahodishte": "Кайметлий",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1884549,
+        24.3318993
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D - 00860",
+      "koncesioner": "",
+      "nahodishte": "Суворово - 2",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3290499,
+        27.5907042
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000861",
+      "koncesioner": "Барс\" АД гр. Шумен",
+      "nahodishte": "Ламбурлука",
+      "obshtina": "Смядово",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "21 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0662446,
+        27.0204063
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000858",
+      "koncesioner": "",
+      "nahodishte": "Козя поляна",
+      "obshtina": "Дългопол",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0526157,
+        27.3460079
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000845",
+      "koncesioner": "Кубрат",
+      "nahodishte": "Никопол",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7070803,
+        24.8996563
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000841",
+      "koncesioner": "Камъка",
+      "nahodishte": "Ихтиман",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Гнайсгранити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4384955,
+        23.8143825
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000840",
+      "koncesioner": "",
+      "nahodishte": "Монтана",
+      "obshtina": "",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Кварцови пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4088984,
+        23.2203193
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000844",
+      "koncesioner": "Дрянка-запад\" и",
+      "nahodishte": "Първомай",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.09946,
+        25.2247171
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000839",
+      "koncesioner": "Покрован",
+      "nahodishte": "Ивайлоград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000838",
+      "koncesioner": "Плаки",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000833",
+      "koncesioner": "Умата",
+      "nahodishte": "Гърмен",
+      "obshtina": "",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6744205,
+        23.8195096
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000828",
+      "koncesioner": "Северен\" и",
+      "nahodishte": "Гърмен",
+      "obshtina": "",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6744205,
+        23.8195096
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000827",
+      "koncesioner": "Мечта",
+      "nahodishte": "Казанлък",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6191296,
+        25.3933333
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000826",
+      "koncesioner": "Черно море\" АД, гр. Хитрино-4",
+      "nahodishte": "Хитрино",
+      "obshtina": "",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4249455,
+        26.9168625
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000815",
+      "koncesioner": "Мишовец\" и",
+      "nahodishte": "Бяла Слатина",
+      "obshtina": "",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4697446,
+        23.9450995
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000810",
+      "koncesioner": "Ескана\" АД, гр. Варна Старо Оряхово 3",
+      "nahodishte": "Долни Чифлик",
+      "obshtina": "",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9925676,
+        27.7187564
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000808",
+      "koncesioner": "Ватия Кварц\" АД, гр.\rСофия",
+      "nahodishte": "Златен дол, у-к \"II\"\rи у-к \"III\"",
+      "obshtina": "Ветово",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Каолиова\rсуровина и\rкварцов пясък в\rкаолиновата",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7042823,
+        26.2636455
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000797",
+      "koncesioner": "Председник\" ООД, с.\rЗгориград, община\rВраца",
+      "nahodishte": "Требежа",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000798",
+      "koncesioner": "Маронас\" ООД, гр.\rВраца",
+      "nahodishte": "Енджи-север",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000796",
+      "koncesioner": "Монолит - 21 -\rАндонов и Захов\"\rООД, гр. Сандански",
+      "nahodishte": "Пиринковец",
+      "obshtina": "Сандански",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5654156,
+        23.2786429
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000795",
+      "koncesioner": "Пътища и мостове\"\rЕООД, гр. Провадия",
+      "nahodishte": "Шафкаалан",
+      "obshtina": "Аврен",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000794",
+      "koncesioner": "ЕТ \"Алекс-Ко-\rАлександър Койчев\",\rгр. София",
+      "nahodishte": "Свети Георги,\rучастък \"Изток\" и\rучастък \"Запад\"",
+      "obshtina": "Свиленград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Кавернозни\rваровици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7681668,
+        26.1978704
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000792",
+      "koncesioner": "Милдет Шишков -\rЗСНМ\" ЕООД, с.\rКрибул",
+      "nahodishte": "Скрибин",
+      "obshtina": "Сатовча",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.587265,
+        24.0226179
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000791",
+      "koncesioner": "Пътна компания\"\rЕАД, гр. София",
+      "nahodishte": "Лома-1, участъци\r\"Североизток\" и\r\"Югозапад\"",
+      "obshtina": "Ружинци,\rДимово",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.9859,
+        22.8777
+      ],
+      "coordinate_confidence": "low"
+    },
+    {
+      "id": "D-000790",
+      "koncesioner": "Прохорово Майнинг\"\rАД, гр. София",
+      "nahodishte": "Прохорово, участък\r\"Прохорово\"",
+      "obshtina": "Тунджа, Нова\rЗагора",
+      "oblast": "Ямбол,\rСливен",
+      "grupa_bogatstvo": "Метални\rполезни\rизкопаеми",
+      "vid_bogatstvo": "Медни руди",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000789",
+      "koncesioner": "Голдън Фийлд\" ООД,\rгр. Шумен",
+      "nahodishte": "Каменица",
+      "obshtina": "Каспичан",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3141455,
+        27.1612625
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000788",
+      "koncesioner": "Маронас\" ООД, гр.\rВраца",
+      "nahodishte": "Енджи-юг, участък\r\"Запад\" и участък\r\"Север\"",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000787",
+      "koncesioner": "Кралтрейс\" ООД, гр.\rВраца",
+      "nahodishte": "Касибо",
+      "obshtina": "Враца",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2028209,
+        23.548027
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000786",
+      "koncesioner": "Каолин\" ЕАД, гр.\rСеново",
+      "nahodishte": "Балабана, участък\r\"Източно гнездо\" и\rучастък \"Западно\rгнездо\"",
+      "obshtina": "Дулово",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Кварц-каолинова\rсуровина",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.8213154,
+        27.1399325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000785",
+      "koncesioner": "Пътперфект - Т\" ЕАД,\rгр. Силистра",
+      "nahodishte": "Правда",
+      "obshtina": "Дулово",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.87315,
+        26.99957
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000783",
+      "koncesioner": "",
+      "nahodishte": "участък \"Северен\"",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000769",
+      "koncesioner": "",
+      "nahodishte": "Капу баир",
+      "obshtina": "Дългопол, Руен",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000768",
+      "koncesioner": "",
+      "nahodishte": "\"Север\" и участък",
+      "obshtina": "Аврен",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Кварцови пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000767",
+      "koncesioner": "",
+      "nahodishte": "Белите камъни",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3290499,
+        27.5907042
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000758",
+      "koncesioner": "",
+      "nahodishte": "Търла - запад\",",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4248111,
+        25.6257479
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000754",
+      "koncesioner": "строежи\" ЕООД, гр.",
+      "nahodishte": "Банево",
+      "obshtina": "Бургас",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "(андезити и",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6278965,
+        27.3949388
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000753",
+      "koncesioner": "",
+      "nahodishte": "\"Централен\" и",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000748",
+      "koncesioner": "",
+      "nahodishte": "Боров дол",
+      "obshtina": "Твърдица",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Нефтошисти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7357199,
+        26.08088
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000744",
+      "koncesioner": "",
+      "nahodishte": "Пладнището",
+      "obshtina": "Макреш",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7569603,
+        22.5546323
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000745",
+      "koncesioner": "",
+      "nahodishte": "\"Централен\" и",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "26 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000743",
+      "koncesioner": "2009\"ЕООД, гр.",
+      "nahodishte": "Пладнището",
+      "obshtina": "Искър",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък и чакъл",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3895347,
+        24.22982
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000742",
+      "koncesioner": "",
+      "nahodishte": "Чешлия",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитобазалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000741",
+      "koncesioner": "",
+      "nahodishte": "Дорис",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитобазалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000740",
+      "koncesioner": "",
+      "nahodishte": "\"Сулица-1-Юг\" и у-",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Туфи",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000737",
+      "koncesioner": "",
+      "nahodishte": "Селска река",
+      "obshtina": "Монтана",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4088984,
+        23.2203193
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000734",
+      "koncesioner": "66\" ЕООД, гр. Червен",
+      "nahodishte": "\"Източен\" и",
+      "obshtina": "Червен бряг",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2789455,
+        24.0824325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000720",
+      "koncesioner": "",
+      "nahodishte": "Сухата скала",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3290499,
+        27.5907042
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000722",
+      "koncesioner": "",
+      "nahodishte": "Атара",
+      "obshtina": "Джебел",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Базалти",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.4974456,
+        25.3021325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000718",
+      "koncesioner": "",
+      "nahodishte": "Локорско",
+      "obshtina": "Столична",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7951658,
+        23.4476032
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000719",
+      "koncesioner": "",
+      "nahodishte": "\"Гранитово-",
+      "obshtina": "Елхово",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гранодиорити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1008701,
+        26.5358199
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000720",
+      "koncesioner": "",
+      "nahodishte": "Сазлъка",
+      "obshtina": "Сунгурларе",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7631059,
+        26.7772625
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000717",
+      "koncesioner": "",
+      "nahodishte": "\"Първи\" и участък",
+      "obshtina": "Дулово",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.8213154,
+        27.1399325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000714",
+      "koncesioner": "Илинденски мрамор\"\rООД, гр. София",
+      "nahodishte": "Илинденци,\rучастък \"Централен\r1\"",
+      "obshtina": "Струмяни",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6211275,
+        23.0910138
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000716",
+      "koncesioner": "Аркус - Строй\" ЕАД,\rгр. Велико Търново",
+      "nahodishte": "Попенец",
+      "obshtina": "Лясковец,\rГорна\rОряховица",
+      "oblast": "Велико\rТърново",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "15 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000712",
+      "koncesioner": "Илинденци - Мрамор\"\rАД, с. Илинденци",
+      "nahodishte": "Галчово гнездо",
+      "obshtina": "Струмяни",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6211275,
+        23.0910138
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000725",
+      "koncesioner": "Водно стопанство\r2000\" ЕООД, гр.\rПлевен",
+      "nahodishte": "Бялата скала",
+      "obshtina": "Плевен",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.409022,
+        24.6180123
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000710",
+      "koncesioner": "Барон\" ООД, гр.\rХасково",
+      "nahodishte": "Кобилино, участък\r\"Стария даскал\"",
+      "obshtina": "Ивайловград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000711",
+      "koncesioner": "Андезит\" ООД, гр.\rБургас",
+      "nahodishte": "Роза",
+      "obshtina": "Джебел",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Вулкански туфи\"",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.4974456,
+        25.3021325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000713",
+      "koncesioner": "Коструктинг\" ООД,\rгр. София",
+      "nahodishte": "Ирма",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000709",
+      "koncesioner": "Динас\" АД, гр.\rСливен",
+      "nahodishte": "Блягорница",
+      "obshtina": "Твърдица",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Гранодиорити",
+      "srok_koncesiya": "35 г.",
+      "status": "договорът не е\rвлязъл в сила",
+      "coordinates": [
+        42.7014434,
+        25.8979171
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000707",
+      "koncesioner": "Тайфун - БГ\" ООД,\rгр. Търговище",
+      "nahodishte": "Александра",
+      "obshtina": "Търговище",
+      "oblast": "Търговище",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мергелни глини",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.251196,
+        26.5727944
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000705",
+      "koncesioner": "Терекс и Ко\" АД, гр.\rСофия",
+      "nahodishte": "Борово",
+      "obshtina": "Борово",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4883438,
+        25.8089088
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000706",
+      "koncesioner": "Европът 2005\" ООД,\rгр. Хасково",
+      "nahodishte": "Чешмата",
+      "obshtina": "Хасково",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Андезити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7652029,
+        26.2019769
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000704",
+      "koncesioner": "Слави\" ЕООД, гр.\rСливен",
+      "nahodishte": "Слави",
+      "obshtina": "Сливен",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Пясъчници",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6817633,
+        26.3153528
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000701",
+      "koncesioner": "Европроект\" ЕООД,\rгр. Бургас",
+      "nahodishte": "Брешнела",
+      "obshtina": "Созопол",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Трахити",
+      "srok_koncesiya": "25 г.",
+      "status": "договорът не е\rвлязъл в сила",
+      "coordinates": [
+        42.4181556,
+        27.6943124
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000703",
+      "koncesioner": "Базалт България\"\rЕООД, гр. София",
+      "nahodishte": "Бов - запад,\rучастък \"Южен\" и\rучастък \"Северен\"",
+      "obshtina": "Своге",
+      "oblast": "Софийска\rобласт",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Базалтоиди",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9605002,
+        23.3456154
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000702",
+      "koncesioner": "Еврострой - 2004\"\rООД, гр. Кърджали",
+      "nahodishte": "Белинда, участък\r\"Изток\"",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Андезитобазалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000700",
+      "koncesioner": "Трейс Рисорсиз\"\rЕООД, гр. София",
+      "nahodishte": "Милин камък",
+      "obshtina": "Брезник",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "Метални\rполезни\rизкопаеми",
+      "vid_bogatstvo": "Златно-сребърни\rруди",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7246919,
+        22.926742
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000699",
+      "koncesioner": "",
+      "nahodishte": "Караджейка Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000698",
+      "koncesioner": "",
+      "nahodishte": "участъци \"Запад\" и Ветово",
+      "obshtina": "",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.8480413,
+        25.9542057
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000697",
+      "koncesioner": "Материали Рудината",
+      "nahodishte": "Столична",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "варовити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.654318,
+        23.3331572
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000696",
+      "koncesioner": "",
+      "nahodishte": "Лозята Септември",
+      "obshtina": "",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1486841,
+        24.1531871
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000695",
+      "koncesioner": "",
+      "nahodishte": "Лисия Костинброд",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6977028,
+        23.3217359
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000694",
+      "koncesioner": "",
+      "nahodishte": "Голеш Царево",
+      "obshtina": "",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитобазалти",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1567749,
+        27.7682185
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000693",
+      "koncesioner": "",
+      "nahodishte": "участъци \"Участък - Пазарджик",
+      "obshtina": "",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пасък и чакъл",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1486841,
+        24.1531871
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000692",
+      "koncesioner": "",
+      "nahodishte": "лесничейство\", Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000679",
+      "koncesioner": "",
+      "nahodishte": "Димитровград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0582493,
+        25.5916466
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000678",
+      "koncesioner": "Пещера\" ЕООД, гр.",
+      "nahodishte": "Алчака Пазарджик",
+      "obshtina": "",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1486841,
+        24.1531871
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000677",
+      "koncesioner": "Материали Пловдив",
+      "nahodishte": "Инджова върба - 2 Калояново",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1418541,
+        24.7499297
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000676",
+      "koncesioner": "",
+      "nahodishte": "\"Бунилото-изток\" и Родопи",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1418541,
+        24.7499297
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000674",
+      "koncesioner": "",
+      "nahodishte": "\"Северен\" и",
+      "obshtina": "Аврен",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000672",
+      "koncesioner": "",
+      "nahodishte": "Мадлен",
+      "obshtina": "Летница",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3058111,
+        25.0540972
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000671",
+      "koncesioner": "",
+      "nahodishte": "Лещака",
+      "obshtina": "Макреш",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7569603,
+        22.5546323
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000670",
+      "koncesioner": "",
+      "nahodishte": "Кантона",
+      "obshtina": "Ивайловград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "10 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000667",
+      "koncesioner": "",
+      "nahodishte": "Вишовград",
+      "obshtina": "Павликени",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1559921,
+        25.2998391
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000664",
+      "koncesioner": "",
+      "nahodishte": "Старите колиби",
+      "obshtina": "Асеновград",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0073633,
+        24.8762702
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000662",
+      "koncesioner": "",
+      "nahodishte": "Каменището",
+      "obshtina": "Летница",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3058111,
+        25.0540972
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000659",
+      "koncesioner": "",
+      "nahodishte": "Поповяне",
+      "obshtina": "Самоков",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4257936,
+        23.3481773
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000660",
+      "koncesioner": "",
+      "nahodishte": "Зъбера-2",
+      "obshtina": "Монтана",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4088984,
+        23.2203193
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000666",
+      "koncesioner": "",
+      "nahodishte": "Житосвят",
+      "obshtina": "",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.46184,
+        26.97523
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000658",
+      "koncesioner": "",
+      "nahodishte": "Егреците",
+      "obshtina": "Септември",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.219533,
+        24.1228361
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000650",
+      "koncesioner": "",
+      "nahodishte": "Върбовка",
+      "obshtina": "Павликени",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Базалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2381268,
+        25.1972132
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000649",
+      "koncesioner": "",
+      "nahodishte": "Футула",
+      "obshtina": "Карнобат",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитобазалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6498554,
+        26.9823125
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000646",
+      "koncesioner": "",
+      "nahodishte": "Суворово",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3290499,
+        27.5907042
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000642",
+      "koncesioner": "",
+      "nahodishte": "\"Вриза\" и",
+      "obshtina": "Сатовча",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "гнайсошисти и",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.587265,
+        24.0226179
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D - 00654",
+      "koncesioner": "България\" ЕООД, гр.",
+      "nahodishte": "\"Враняк\",",
+      "obshtina": "Слатина, Долни",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "сугласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000651",
+      "koncesioner": "България\" ООД, гр.",
+      "nahodishte": "Каварна Изток",
+      "obshtina": "",
+      "oblast": "Черно море",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Природен газ",
+      "srok_koncesiya": "6 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6129362,
+        27.4932365
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000645",
+      "koncesioner": "",
+      "nahodishte": "Лилиян",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4809895,
+        24.6060665
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000641",
+      "koncesioner": "",
+      "nahodishte": "Долна Вереница",
+      "obshtina": "Монтана",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.43258,
+        23.13491
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000640",
+      "koncesioner": "Росен, област",
+      "nahodishte": "Кайряка",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5530803,
+        23.9837336
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000639",
+      "koncesioner": "",
+      "nahodishte": "Пиринка",
+      "obshtina": "Струмяни",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6211275,
+        23.0910138
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000638",
+      "koncesioner": "",
+      "nahodishte": "Мътница 2",
+      "obshtina": "Шумен",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2830667,
+        27.024875
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000637",
+      "koncesioner": "",
+      "nahodishte": "\"Северен\" и",
+      "obshtina": "Руен",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.8681725,
+        27.2721754
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000634",
+      "koncesioner": "",
+      "nahodishte": "Ениер",
+      "obshtina": "Ветрино",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3410065,
+        27.3861108
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000633",
+      "koncesioner": "",
+      "nahodishte": "Могилино",
+      "obshtina": "Две могили",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.44331,
+        25.97732
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000632",
+      "koncesioner": "",
+      "nahodishte": "Долно Белотинци",
+      "obshtina": "Монтана",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.43842,
+        23.28765
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000636",
+      "koncesioner": "",
+      "nahodishte": "Копривец",
+      "obshtina": "Бяла",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.40554,
+        25.8769
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000615",
+      "koncesioner": "Ханово",
+      "nahodishte": "Тунджа",
+      "obshtina": "",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.369274,
+        26.4708626
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000715",
+      "koncesioner": "Грудово",
+      "nahodishte": "Средец",
+      "obshtina": "",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитови туфи",
+      "srok_koncesiya": "10 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3458456,
+        27.1808724
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000614",
+      "koncesioner": "Сливен\" ЕООД, гр. Дядово - Биндер",
+      "nahodishte": "Нова Загора",
+      "obshtina": "",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4934682,
+        26.0090132
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000613",
+      "koncesioner": "",
+      "nahodishte": "Търново,",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0820584,
+        25.6321312
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000610",
+      "koncesioner": "Металс Крумовград",
+      "nahodishte": "Крумовград",
+      "obshtina": "",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.4731094,
+        25.6546299
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000608",
+      "koncesioner": "Върба - Батанци",
+      "nahodishte": "Мадан",
+      "obshtina": "",
+      "oblast": "Смолян",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.4985656,
+        24.9393625
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000606",
+      "koncesioner": "",
+      "nahodishte": "Гърмен",
+      "obshtina": "",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6744205,
+        23.8195096
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000605",
+      "koncesioner": "Богорово",
+      "nahodishte": "Силистра",
+      "obshtina": "",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        44.118308,
+        27.2600031
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000604",
+      "koncesioner": "инженеринг 99\" АД, Кояджика",
+      "nahodishte": "Стралджа",
+      "obshtina": "",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Трахити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6002084,
+        26.6916416
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000603",
+      "koncesioner": "Камъните",
+      "nahodishte": "Ивайлоград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000602",
+      "koncesioner": "Железино",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000600",
+      "koncesioner": "Материали Пловдив\" Шишманци, у-к \"2",
+      "nahodishte": "Раковски",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.2873179,
+        24.9659552
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000586",
+      "koncesioner": "Кара Михал",
+      "nahodishte": "Самуил",
+      "obshtina": "",
+      "oblast": "Разград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.5137854,
+        26.7408625
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000585",
+      "koncesioner": "Каваклъка",
+      "nahodishte": "Асеновград",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Баластра",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0073633,
+        24.8762702
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000583",
+      "koncesioner": "Беленища",
+      "nahodishte": "Опака",
+      "obshtina": "",
+      "oblast": "Търговище",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4471325,
+        26.1739537
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000581",
+      "koncesioner": "Ерден 2",
+      "nahodishte": "Бойчиновци",
+      "obshtina": "",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4711262,
+        23.3324399
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000580",
+      "koncesioner": "“Ескана” АД, гр. Варна Горен близнак",
+      "nahodishte": "Аврен",
+      "obshtina": "",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000578",
+      "koncesioner": "Исенов връх",
+      "nahodishte": "Стара Загора",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "10 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4248111,
+        25.6257479
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000577",
+      "koncesioner": "Кален\" и  участък",
+      "nahodishte": "Мездра",
+      "obshtina": "",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000576",
+      "koncesioner": "Арчар",
+      "nahodishte": "Шумен",
+      "obshtina": "",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2703797,
+        26.9247362
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000575",
+      "koncesioner": "Миал",
+      "nahodishte": "Мирково",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "доломити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6794305,
+        23.3703056
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000574",
+      "koncesioner": "инженеринг 99\" АД, Коневец",
+      "nahodishte": "Тунджа",
+      "obshtina": "",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.369274,
+        26.4708626
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000573",
+      "koncesioner": "„Северен“ и у-к",
+      "nahodishte": "Тополовград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък и чакъл",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0847397,
+        26.3320703
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000572",
+      "koncesioner": "",
+      "nahodishte": "Монтана",
+      "obshtina": "",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4088984,
+        23.2203193
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000571",
+      "koncesioner": "Команското",
+      "nahodishte": "Угърчин",
+      "obshtina": "",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0960171,
+        24.4209919
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000569",
+      "koncesioner": "Чатала, у-к \"Юг",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000568",
+      "koncesioner": "Поп Кралево",
+      "nahodishte": "Силистра",
+      "obshtina": "",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        44.118308,
+        27.2600031
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000567",
+      "koncesioner": "Али",
+      "nahodishte": "Ихтиман",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Амфиболити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4384955,
+        23.8143825
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000566",
+      "koncesioner": "Бояново",
+      "nahodishte": "Елхово",
+      "obshtina": "",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.17235,
+        26.567632
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000564",
+      "koncesioner": "",
+      "nahodishte": "Велико Търново",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0820584,
+        25.6321312
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000563",
+      "koncesioner": "",
+      "nahodishte": "Костинброд",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7826011,
+        23.245722
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000562",
+      "koncesioner": "Рафаело",
+      "nahodishte": "Макреш",
+      "obshtina": "",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7569603,
+        22.5546323
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000560",
+      "koncesioner": "Бояново-2",
+      "nahodishte": "Елхово",
+      "obshtina": "",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.17235,
+        26.567632
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000559",
+      "koncesioner": "",
+      "nahodishte": "Червен бряг",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2789455,
+        24.0824325
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000558",
+      "koncesioner": "Стряма 2",
+      "nahodishte": "Калояново",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "10 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3952895,
+        24.7655768
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000557",
+      "koncesioner": "Мелницата",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000556",
+      "koncesioner": "Райново",
+      "nahodishte": "Симеоновград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0337777,
+        25.8316217
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000552",
+      "koncesioner": "Воденицата 4",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000548",
+      "koncesioner": "",
+      "nahodishte": "Ивайловград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000547",
+      "koncesioner": "",
+      "nahodishte": "Нова Загора",
+      "obshtina": "",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4934682,
+        26.0090132
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000498",
+      "koncesioner": "“Перун 2008\" ООД",
+      "nahodishte": "Столюва чукара",
+      "obshtina": "Панагюрище",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5043065,
+        24.1888411
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000496",
+      "koncesioner": "Инженеринг\" ЕООД,",
+      "nahodishte": "Луда Яна",
+      "obshtina": "",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4012086,
+        24.2907547
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000495",
+      "koncesioner": "",
+      "nahodishte": "Белащица - юг",
+      "obshtina": "Родопи",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г.",
+      "status": "изтекъл договор",
+      "coordinates": [
+        42.0519345,
+        24.6811145
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000493",
+      "koncesioner": "",
+      "nahodishte": "\"Запад\" и у-к",
+      "obshtina": "Стамболово",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7779838,
+        25.6441229
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O - K6",
+      "koncesioner": "",
+      "nahodishte": "Рибарника - 1",
+      "obshtina": "Първомай",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Речна баластра",
+      "srok_koncesiya": "22 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.09946,
+        25.2247171
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000492",
+      "koncesioner": "",
+      "nahodishte": "Ягода - запад",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4248111,
+        25.6257479
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000735",
+      "koncesioner": "",
+      "nahodishte": "Стоянчова чешма",
+      "obshtina": "Садово",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Баластра",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1342256,
+        24.9374825
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000490",
+      "koncesioner": "",
+      "nahodishte": "Богданово-запад",
+      "obshtina": "Средец",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3458456,
+        27.1808724
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000489",
+      "koncesioner": "“АБ” АД, гр. Хасково",
+      "nahodishte": "Лисово",
+      "obshtina": "Свиленград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.9420244,
+        26.3163986
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000487",
+      "koncesioner": "",
+      "nahodishte": "Плочата",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000486",
+      "koncesioner": "",
+      "nahodishte": "Бучака",
+      "obshtina": "Благоевград",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0111077,
+        23.0906457
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000485",
+      "koncesioner": "",
+      "nahodishte": "Орешец",
+      "obshtina": "Димово",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.636089,
+        22.7303892
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000483",
+      "koncesioner": "",
+      "nahodishte": "Стряма 1",
+      "obshtina": "Калояново",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3952895,
+        24.7655768
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000481",
+      "koncesioner": "",
+      "nahodishte": "Козяк",
+      "obshtina": "Сливница",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.8479452,
+        22.9915286
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000479",
+      "koncesioner": "",
+      "nahodishte": "Тери",
+      "obshtina": "Белоградчик",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Диабази",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.6266828,
+        22.6861167
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000430",
+      "koncesioner": "",
+      "nahodishte": "Добромир - изток",
+      "obshtina": "Дългопол, Руен",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000428",
+      "koncesioner": "",
+      "nahodishte": "Нановица",
+      "obshtina": "Ябланица",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0357482,
+        24.1299841
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000680",
+      "koncesioner": "",
+      "nahodishte": "Долна баня",
+      "obshtina": "Долна баня",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Речна баластра",
+      "srok_koncesiya": "15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3108246,
+        23.7645019
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000427",
+      "koncesioner": "",
+      "nahodishte": "Черничево",
+      "obshtina": "Симитли",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци  и чакъли",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.8933839,
+        23.108109
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000424",
+      "koncesioner": "",
+      "nahodishte": "Галата",
+      "obshtina": "Тетевен",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.01828,
+        24.27942
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000689",
+      "koncesioner": "технолоджи\" ЕООД,",
+      "nahodishte": "Четалеч",
+      "obshtina": "Мирково",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Глини и пясъци",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6794305,
+        23.3703056
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000792",
+      "koncesioner": "",
+      "nahodishte": "Кору чобан",
+      "obshtina": "Алфатар",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.9440454,
+        27.2869625
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000423",
+      "koncesioner": "",
+      "nahodishte": "Чириковец",
+      "obshtina": "Габрово",
+      "oblast": "Габрово",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9621753,
+        25.3724332
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000421",
+      "koncesioner": "",
+      "nahodishte": "Ябланица",
+      "obshtina": "Ябланица",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0250359,
+        24.1005871
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000420",
+      "koncesioner": "",
+      "nahodishte": "Крушевец",
+      "obshtina": "Созопол",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.2741786,
+        27.4852806
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000419",
+      "koncesioner": "",
+      "nahodishte": "Малко Търново",
+      "obshtina": "Малко Търново",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.9803021,
+        27.5244404
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000418",
+      "koncesioner": "",
+      "nahodishte": "Твърдица",
+      "obshtina": "Твърдица",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7014434,
+        25.8979171
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000417",
+      "koncesioner": "Минералс България",
+      "nahodishte": "Верона",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7294069,
+        23.3033381
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000416",
+      "koncesioner": "",
+      "nahodishte": "Малък Гайтановец",
+      "obshtina": "Белово",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "доломити",
+      "srok_koncesiya": "20 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.2125836,
+        24.0186657
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000415",
+      "koncesioner": "",
+      "nahodishte": "Побит какък",
+      "obshtina": "Елин Пелин",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Кварцови пясъци",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7173302,
+        23.16363
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000600",
+      "koncesioner": "",
+      "nahodishte": "Скала",
+      "obshtina": "Ценово",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.5775668,
+        25.6024829
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000414",
+      "koncesioner": "",
+      "nahodishte": "Гърмище",
+      "obshtina": "Драгоман",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Огнеупорни глини",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6758405,
+        23.2609051
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000413",
+      "koncesioner": "Илинденски мрамор\"\rООД, гр. София",
+      "nahodishte": "Крушево, уч.\rПандемон",
+      "obshtina": "Гърмен",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Шисти",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6744205,
+        23.8195096
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000412",
+      "koncesioner": "Ватия Холдинг\" АД,\rгр. София",
+      "nahodishte": "Стрелча-Мерата",
+      "obshtina": "Стрелча",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Пегматити",
+      "srok_koncesiya": "20 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5067255,
+        24.3191525
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000410",
+      "koncesioner": "Ватия Холдинг\" АД,\rгр. София",
+      "nahodishte": "Сакар планина, у-к\r\"Богомил\"",
+      "obshtina": "Харманли",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Кварц",
+      "srok_koncesiya": "20 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.9302645,
+        25.9015211
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000409",
+      "koncesioner": "”Бивар” АД, гр.\rМездра",
+      "nahodishte": "Кунино",
+      "obshtina": "Роман",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1892451,
+        23.992529
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000407",
+      "koncesioner": "“Новако строй” ЕООД,\rгр. Плевен",
+      "nahodishte": "Маркова могила, у-\rк \"Чомаковци\"",
+      "obshtina": "Червен бряг",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "изтекъл договор",
+      "coordinates": [
+        43.2789455,
+        24.0824325
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000406",
+      "koncesioner": "“Новако Строй” ЕООД,\rгр. Плевен",
+      "nahodishte": "Бъркач",
+      "obshtina": "Долни Дъбник",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "изтекъл договор",
+      "coordinates": [
+        43.2919,
+        24.43911
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000684",
+      "koncesioner": "Ескана\" АД, гр. Варна",
+      "nahodishte": "Ляхово - изток",
+      "obshtina": "Балчик",
+      "oblast": "Добрич",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4259186,
+        28.1602967
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000405",
+      "koncesioner": "Марин Батуров\"\rЕООД, гр.  София",
+      "nahodishte": "Казармата",
+      "obshtina": "Ивайловград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Гнайсошисти",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000404",
+      "koncesioner": "Пътстройинженеринг\r\" АД, с. Груево",
+      "nahodishte": "Колибар чешма",
+      "obshtina": "Ивайловград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5258135,
+        26.1234902
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000564",
+      "koncesioner": "Скални материали\"\rАД, гр. Русе",
+      "nahodishte": "Батин-канарите",
+      "obshtina": "Борово",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4883438,
+        25.8089088
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000561",
+      "koncesioner": "Пътно строителство\"\rАД, гр. Разград",
+      "nahodishte": "Кубрат",
+      "obshtina": "Кубрат",
+      "oblast": "Разград",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7967009,
+        26.5006777
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000609",
+      "koncesioner": "Огнеупорни глини\"\rАД, гр. Плевен",
+      "nahodishte": "Лъката",
+      "obshtina": "Долна\rМитрополия",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "15 г.",
+      "status": "изтекъл договор",
+      "coordinates": [
+        43.4672884,
+        24.526065
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000670",
+      "koncesioner": "Стремон 95\" ООД, гр.\rПървомай",
+      "nahodishte": "Малката кория",
+      "obshtina": "Първомай",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Речна баластра",
+      "srok_koncesiya": "35 г.",
+      "status": "процедура по\rсъгласуване",
+      "coordinates": [
+        42.09946,
+        25.2247171
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O - K2",
+      "koncesioner": "Експресстрой\" ЕООД,\rс. Старо Оряхово",
+      "nahodishte": "Байрям бей",
+      "obshtina": "Аврен",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000402",
+      "koncesioner": "”Устра - Холдинг” АД,\rгр. Кърджали",
+      "nahodishte": "Сушево",
+      "obshtina": "Момчилград",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци  и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5262935,
+        25.410891
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000401",
+      "koncesioner": "Трансатлантик\rФрейтърс България\"\rЕООД, гр. Бургас",
+      "nahodishte": "Инджейско блато",
+      "obshtina": "Несебър",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6607865,
+        27.7167464
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000400",
+      "koncesioner": "”Успех” АД, гр. София",
+      "nahodishte": "Станчов връх",
+      "obshtina": "Луковит",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Глинести мергели",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2064255,
+        24.1619125
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000399",
+      "koncesioner": "Технострой-\rинженеринг 99\" АД,\rгр. Ямбол",
+      "nahodishte": "Маломир",
+      "obshtina": "Тунджа",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Трахибазалти",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.2807801,
+        26.5177099
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000398",
+      "koncesioner": "инженеринг 99\" АД,",
+      "nahodishte": "Иречеково",
+      "obshtina": "Стралджа",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Трахибазалти",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.48853,
+        26.7292399
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000397",
+      "koncesioner": "",
+      "nahodishte": "Крибул",
+      "obshtina": "Сатовча",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Гнайси",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.5723561,
+        23.9473629
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000396",
+      "koncesioner": "",
+      "nahodishte": "Цареви ливади",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3290499,
+        27.5907042
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000395",
+      "koncesioner": "",
+      "nahodishte": "Кючук гьол",
+      "obshtina": "Карнобат",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "25 г.",
+      "status": "прекратен",
+      "coordinates": [
+        42.6498554,
+        26.9823125
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000394",
+      "koncesioner": "",
+      "nahodishte": "Калов баир",
+      "obshtina": "Камено",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5711572,
+        27.2910461
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000685",
+      "koncesioner": "",
+      "nahodishte": "Мандра кула",
+      "obshtina": "Аврен",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0946632,
+        27.7242492
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000393",
+      "koncesioner": "",
+      "nahodishte": "Чифлика",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.9648213,
+        24.6195678
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000392",
+      "koncesioner": "",
+      "nahodishte": "Марчево",
+      "obshtina": "Гърмен",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6078793,
+        23.7959796
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000391",
+      "koncesioner": "АБ\" АД, гр. Хасково",
+      "nahodishte": "Клокотница",
+      "obshtina": "Димитровград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0733211,
+        25.5680265
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000390",
+      "koncesioner": "",
+      "nahodishte": "Узунпара",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Баластра",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1418541,
+        24.7499297
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000389",
+      "koncesioner": "",
+      "nahodishte": "Големия кайряк",
+      "obshtina": "Тунджа",
+      "oblast": "Ямбол",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.369274,
+        26.4708626
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000388",
+      "koncesioner": "",
+      "nahodishte": "Бистрица",
+      "obshtina": "Столична",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Огнеупорна пръст",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5861626,
+        23.3601017
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000627",
+      "koncesioner": "",
+      "nahodishte": "Кариерата",
+      "obshtina": "Попово",
+      "oblast": "Търговище",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3481473,
+        26.2271967
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000386",
+      "koncesioner": "",
+      "nahodishte": "Канарата",
+      "obshtina": "Тополовград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "фелдшпатова",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0847397,
+        26.3320703
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000385",
+      "koncesioner": "",
+      "nahodishte": "Овчарово",
+      "obshtina": "Харманли",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Талкошисти",
+      "srok_koncesiya": "20 г. +15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0142319,
+        26.0009884
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000384",
+      "koncesioner": "",
+      "nahodishte": "Джурково",
+      "obshtina": "Лъки",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7698452,
+        24.8187708
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000383",
+      "koncesioner": "",
+      "nahodishte": "17 и 20 (\"Жълти",
+      "obshtina": "Каолиново",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Суровина и",
+      "srok_koncesiya": "27 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.6205554,
+        27.1070625
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000348",
+      "koncesioner": "Матириълс Люляка",
+      "nahodishte": "Девня",
+      "obshtina": "",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2184213,
+        27.5564948
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000347",
+      "koncesioner": "",
+      "nahodishte": "Идринизица Самоков",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6977028,
+        23.3217359
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000345",
+      "koncesioner": "",
+      "nahodishte": "Хидроекопим - 1 Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000344",
+      "koncesioner": "",
+      "nahodishte": "Винарово Чирпан",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3000371,
+        25.4113475
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000342",
+      "koncesioner": "",
+      "nahodishte": "Братя Кунчеви Стара Загора",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Андезитов туфи",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4981,
+        25.85154
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000341",
+      "koncesioner": "",
+      "nahodishte": "Свобода Чирпан",
+      "obshtina": "",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.2275999,
+        25.4228601
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000340",
+      "koncesioner": "",
+      "nahodishte": "Крепост у-к-Запад Димитровград",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000339",
+      "koncesioner": "",
+      "nahodishte": "Кирмец Сливен",
+      "obshtina": "",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.64169,
+        26.2634283
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000338",
+      "koncesioner": "",
+      "nahodishte": "Кубратово - 1 Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци  и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7731157,
+        23.3603097
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000337",
+      "koncesioner": "",
+      "nahodishte": "Кокошките Хаджидимово",
+      "obshtina": "",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.750287,
+        23.4873411
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000336",
+      "koncesioner": "",
+      "nahodishte": "Подгумер Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Кварцови пясъци",
+      "srok_koncesiya": "19 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.8029001,
+        23.4036368
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000335",
+      "koncesioner": "",
+      "nahodishte": "Ерден Бойчиновци",
+      "obshtina": "",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.48254,
+        23.28666
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000334",
+      "koncesioner": "",
+      "nahodishte": "Яковия чифлик Асеновград",
+      "obshtina": "",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1418541,
+        24.7499297
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000332",
+      "koncesioner": "",
+      "nahodishte": "Ошане Белоградчик",
+      "obshtina": "",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Габродиабази",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.68771,
+        22.54985
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000329",
+      "koncesioner": "",
+      "nahodishte": "Дебела могила Радомир",
+      "obshtina": "",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.628442,
+        22.8823119
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000327",
+      "koncesioner": "",
+      "nahodishte": "въглищен басейн, у-Радомир,",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000326",
+      "koncesioner": "",
+      "nahodishte": "Станянци Годеч",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0463811,
+        22.9214155
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000325",
+      "koncesioner": "",
+      "nahodishte": "Брезник,",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Кафяви въглища",
+      "srok_koncesiya": "10 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7067276,
+        23.3596516
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000324",
+      "koncesioner": "",
+      "nahodishte": "Бобов дол",
+      "obshtina": "",
+      "oblast": "Кюстендил",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Кафяви въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3662276,
+        23.0073636
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000322",
+      "koncesioner": "",
+      "nahodishte": "въглищен басейн, у-Гърмен",
+      "obshtina": "",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Лигнитни въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.750287,
+        23.4873411
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000319",
+      "koncesioner": "",
+      "nahodishte": "Бели брег Драгоман",
+      "obshtina": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.8703107,
+        22.8544499
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000318",
+      "koncesioner": "с. Одраница, обл.",
+      "nahodishte": "въглищен басейн,  Перник",
+      "obshtina": "",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.628442,
+        22.8823119
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000317",
+      "koncesioner": "",
+      "nahodishte": "въглищен басейн, у-",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "Твърди горива",
+      "vid_bogatstvo": "Въглища",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000314",
+      "koncesioner": "на нефт и газ” АД, гр. Дуранкулак",
+      "nahodishte": "Шабла",
+      "obshtina": "",
+      "oblast": "Добрич",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Природен газ",
+      "srok_koncesiya": "7 г. +15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.5406619,
+        28.5339137
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000313",
+      "koncesioner": "на нефт и газ\" АД, гр. Българево",
+      "nahodishte": "Каварна",
+      "obshtina": "",
+      "oblast": "Добрич",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Природен газ",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4332836,
+        28.3390066
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000312",
+      "koncesioner": "на нефт и газ” АД, гр. Бърдарски геран",
+      "nahodishte": "Кнежа",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Суров нефт",
+      "srok_koncesiya": "8 г. +15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4990084,
+        24.0745138
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000311",
+      "koncesioner": "на нефт и газ\" АД, гр. Староселци",
+      "nahodishte": "Искър",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Суров нефт",
+      "srok_koncesiya": "13 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3895347,
+        24.22982
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000310",
+      "koncesioner": "на нефт и газ\" АД, гр. Горни Дъбник",
+      "nahodishte": "Долни Дъбник",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Суров нефт",
+      "srok_koncesiya": "17 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4080277,
+        24.4415622
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000309",
+      "koncesioner": "на нефт и газ” АД, гр. Селановци",
+      "nahodishte": "Оряхово",
+      "obshtina": "",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "9 г. +15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7346254,
+        23.9591325
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000308",
+      "koncesioner": "на нефт и газ\" АД, гр.",
+      "nahodishte": "Кнежа",
+      "obshtina": "",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Суров нефт",
+      "srok_koncesiya": "",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4990084,
+        24.0745138
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000307",
+      "koncesioner": "Проучване и добив\rна нефт и газ\" АД, гр.\rСофия",
+      "nahodishte": "Маринов геран",
+      "obshtina": "Кнежа, Оряхово",
+      "oblast": "Плевен,\rВраца",
+      "grupa_bogatstvo": "Нефт и\rприроден газ",
+      "vid_bogatstvo": "Суров нефт и\rПрироден газ",
+      "srok_koncesiya": "7 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000306",
+      "koncesioner": "Проучване и добив\rна нефт и газ\" АД, гр.\rСофия",
+      "nahodishte": "Долни Луковит",
+      "obshtina": "Искър",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Нефт и\rприроден газ",
+      "vid_bogatstvo": "Суров нефт",
+      "srok_koncesiya": "18 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.51481,
+        24.21277
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000305",
+      "koncesioner": "”Проучване и добив\rна нефт и газ” АД, гр.\rСофия",
+      "nahodishte": "Бутан - юг",
+      "obshtina": "Козлодуй,\rМизия",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "Нефт и\rприроден газ",
+      "vid_bogatstvo": "Суров нефт и\rПрироден газ",
+      "srok_koncesiya": "10 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.205,
+        23.5486
+      ],
+      "coordinate_confidence": "low"
+    },
+    {
+      "id": "D-000304",
+      "koncesioner": "Проучване и добив\rна нефт и газ\" АД, гр.\rСофия",
+      "nahodishte": "Долни Дъбник",
+      "obshtina": "Долни Дъбник,\rПлевен",
+      "oblast": "Плевен",
+      "grupa_bogatstvo": "Нефт и\rприроден газ",
+      "vid_bogatstvo": "Суров нефт и\rПрироден газ",
+      "srok_koncesiya": "17 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.4080277,
+        24.4415622
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000301",
+      "koncesioner": "“ЗСК-Девня” АД, гр.\rДевня, Варна",
+      "nahodishte": "Нова Шипка у-к\rЮжен",
+      "obshtina": "Долни Чифлик",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9925676,
+        27.7187564
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000300",
+      "koncesioner": "Хайделберг\rМатириълс Люляка\"\rЕАД, гр. Девня",
+      "nahodishte": "Люляка",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2681265,
+        27.5853113
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000297",
+      "koncesioner": "“Порт ойл” ООД, гр.\rБургас",
+      "nahodishte": "Браница",
+      "obshtina": "Камено",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Вулканити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5711572,
+        27.2910461
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000296",
+      "koncesioner": "”Керамика Аспида”\rООД, гр. София",
+      "nahodishte": "Дуката",
+      "obshtina": "Берковица",
+      "oblast": "Монтана",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Пегматоидни\rлевкократни\rгранити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2373155,
+        23.1288525
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000295",
+      "koncesioner": "Рамово\" ООД, гр.\rСофия",
+      "nahodishte": "Сухата река",
+      "obshtina": "Велинград,\rРакитово",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "Индустриални\rминерали",
+      "vid_bogatstvo": "Пегматити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1887,
+        24.3319
+      ],
+      "coordinate_confidence": "low"
+    },
+    {
+      "id": "D-000294",
+      "koncesioner": "Илинденци-мрамор\"\rЕАД, с. Илинденци",
+      "nahodishte": "Илинденци",
+      "obshtina": "Струмяни",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "Скално-\rоблицовъчни\rматериали",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.6491,
+        23.23366
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000293",
+      "koncesioner": "Проект Строй 1\"\rЕООД, гр. Плевен",
+      "nahodishte": "Гложене-Нановица",
+      "obshtina": "Тетевен,\rЯбланица",
+      "oblast": "Тетевен,\rЛовеч",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": null,
+      "coordinate_confidence": "none"
+    },
+    {
+      "id": "D-000291",
+      "koncesioner": "“Андезит” ООД, гр.\rБургас",
+      "nahodishte": "Българово -юг",
+      "obshtina": "Бургас",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Българити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4936616,
+        27.4721276
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000288",
+      "koncesioner": "“Керамат” АД, гр.\rКаспичан",
+      "nahodishte": "Килик",
+      "obshtina": "Каспичан, Нови\rпазар",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3238905,
+        27.1612347
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000287",
+      "koncesioner": "Проект Строй 1\"\rЕООД, гр. Плевен",
+      "nahodishte": "Горно Павликени\r88",
+      "obshtina": "Ловеч",
+      "oblast": "Ловеч",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1349971,
+        24.715431
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000285",
+      "koncesioner": "“Андезит” ООД, гр.\rБургас",
+      "nahodishte": "Българово-\"Север\"",
+      "obshtina": "Бургас",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Българити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4936616,
+        27.4721276
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000282",
+      "koncesioner": "Витез Проспект\" АД,\rгр. София",
+      "nahodishte": "Студена - участък\rІІІ",
+      "obshtina": "Перник",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Доломитизирани\rваровици и\rдоломити",
+      "srok_koncesiya": "25 г. + 25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6092185,
+        23.0309457
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000281",
+      "koncesioner": "Кариера Смолско\"\rЕООД, гр. София",
+      "nahodishte": "Смолско",
+      "obshtina": "Мирково",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни\rматериали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г. + 9 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.639083,
+        23.9442196
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000279",
+      "koncesioner": "",
+      "nahodishte": "Студена-І",
+      "obshtina": "Перник",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5406893,
+        23.1232269
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000278",
+      "koncesioner": "",
+      "nahodishte": "Скравена",
+      "obshtina": "Ботевград",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9517131,
+        23.7686707
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000276",
+      "koncesioner": "",
+      "nahodishte": "Драгоево",
+      "obshtina": "Велики Преслав",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.12093,
+        26.87061
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000274",
+      "koncesioner": "",
+      "nahodishte": "Студена у-к ІІ",
+      "obshtina": "Перник",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6092185,
+        23.0309457
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000273",
+      "koncesioner": "Сестримо” ЕООД, гр.",
+      "nahodishte": "Ели дере",
+      "obshtina": "Септември",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "10 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.219533,
+        24.1228361
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000272",
+      "koncesioner": "Матириълс Люляка",
+      "nahodishte": "Чернево",
+      "obshtina": "",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2929372,
+        27.6030179
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000270",
+      "koncesioner": "",
+      "nahodishte": "Гранитово",
+      "obshtina": "",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.6793,
+        22.69357
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000269",
+      "koncesioner": "",
+      "nahodishte": "Троица",
+      "obshtina": "Велики Преслав",
+      "oblast": "Шумен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2183071,
+        26.8710945
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000268",
+      "koncesioner": "",
+      "nahodishte": "Гергьовица",
+      "obshtina": "Пещера",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0336471,
+        24.305207
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000266",
+      "koncesioner": "",
+      "nahodishte": "Пърженака",
+      "obshtina": "Димитровград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0582493,
+        25.5916466
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000265",
+      "koncesioner": "ЕООД, гр. Попово,",
+      "nahodishte": "Светлен",
+      "obshtina": "Попово",
+      "oblast": "Търговище",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Глинести мергели",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.3094356,
+        26.2729244
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000264",
+      "koncesioner": "",
+      "nahodishte": "Чирен",
+      "obshtina": "Враца",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.330707,
+        23.5795599
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000263",
+      "koncesioner": "нг\" ЕАД, гр.",
+      "nahodishte": "Пещерата",
+      "obshtina": "Благоевград",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7545689,
+        23.3258882
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000261",
+      "koncesioner": "",
+      "nahodishte": "Канарата - Запад",
+      "obshtina": "Тополовград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "фелдшпатова",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0847397,
+        26.3320703
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000259",
+      "koncesioner": "",
+      "nahodishte": "Конак Тарла",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Глини",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000258",
+      "koncesioner": "",
+      "nahodishte": "Блатото",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Глини",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0189397,
+        24.1051099
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000256",
+      "koncesioner": "",
+      "nahodishte": "Мизия",
+      "obshtina": "Мездра",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1432643,
+        23.7152641
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000255",
+      "koncesioner": "",
+      "nahodishte": "Дядово Бомил",
+      "obshtina": "Нова Загора",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4934682,
+        26.0090132
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000252",
+      "koncesioner": "Силистра” АД,",
+      "nahodishte": "Ястребна",
+      "obshtina": "Ситово",
+      "oblast": "Силистра",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.9704,
+        27.07252
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000251",
+      "koncesioner": "",
+      "nahodishte": "Селимица",
+      "obshtina": "Столична",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "15 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7052889,
+        23.3787223
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000248",
+      "koncesioner": "варовик\" ЕООД, гр.",
+      "nahodishte": "Божема",
+      "obshtina": "Средец",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Граносиенити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.3458456,
+        27.1808724
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000247",
+      "koncesioner": "",
+      "nahodishte": "Тевни дол",
+      "obshtina": "Благоевград",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Барит",
+      "srok_koncesiya": "12 г. + 12 г.",
+      "status": "неизпълнение на",
+      "coordinates": [
+        42.0111077,
+        23.0906457
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000246",
+      "koncesioner": "Материали Рудината",
+      "nahodishte": "Рудината",
+      "obshtina": "Столична",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.77879,
+        23.54731
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000245",
+      "koncesioner": "Михаил Будоров\", гр.",
+      "nahodishte": "Гола могила",
+      "obshtina": "Чирпан",
+      "oblast": "Стара Загора",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.199981,
+        25.3256972
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000244",
+      "koncesioner": "",
+      "nahodishte": "Кочериново",
+      "obshtina": "Кочериново",
+      "oblast": "Кюстендил",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0859637,
+        23.0581308
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000243",
+      "koncesioner": "",
+      "nahodishte": "Благоевград",
+      "obshtina": "Благоевград",
+      "oblast": "Благоевград",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0111077,
+        23.0906457
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000242",
+      "koncesioner": "АД, гр. Брацигово,",
+      "nahodishte": "Казаните - 2",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Риолити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1884549,
+        24.3318993
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000241",
+      "koncesioner": "АД, гр. Брацигово,",
+      "nahodishte": "Казаните - 1",
+      "obshtina": "Пазарджик",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "облицовъчни",
+      "vid_bogatstvo": "Риолити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.1884549,
+        24.3318993
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000239",
+      "koncesioner": "",
+      "nahodishte": "Мелница",
+      "obshtina": "Тополовград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0847397,
+        26.3320703
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000235",
+      "koncesioner": "",
+      "nahodishte": "Кошава",
+      "obshtina": "Видин",
+      "oblast": "Видин",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Гипс",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        44.07159,
+        23.02874
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000234",
+      "koncesioner": "",
+      "nahodishte": "Устрем",
+      "obshtina": "Тополовград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0236701,
+        26.4593499
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000233",
+      "koncesioner": "строежи” ЕООД, гр.",
+      "nahodishte": "Самуилово- изток",
+      "obshtina": "Сливен",
+      "oblast": "Сливен",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6817633,
+        26.3153528
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000232",
+      "koncesioner": "",
+      "nahodishte": "Елов дол - Запад",
+      "obshtina": "Земен",
+      "oblast": "Перник",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4798619,
+        22.7503014
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000228",
+      "koncesioner": "",
+      "nahodishte": "Капаклък",
+      "obshtina": "Кърджали",
+      "oblast": "Кърджали",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Туфити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.643746,
+        25.3722156
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000227",
+      "koncesioner": "",
+      "nahodishte": "Кирешлика",
+      "obshtina": "Димитровград",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.0582493,
+        25.5916466
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "О-000985",
+      "koncesioner": "Атанаска Василева\",",
+      "nahodishte": "Маница",
+      "obshtina": "Варна",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "15 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.2465067,
+        27.938829
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000466",
+      "koncesioner": "",
+      "nahodishte": "Калиманци",
+      "obshtina": "Суворово",
+      "oblast": "Варна",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясък",
+      "srok_koncesiya": "15 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.278,
+        27.72235
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000224",
+      "koncesioner": "инженеринг” АД, гр.",
+      "nahodishte": "Долни Богров ІІ",
+      "obshtina": "Столична",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.701289,
+        23.4911834
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000222",
+      "koncesioner": "Димитър Димитров”,",
+      "nahodishte": "Исланица",
+      "obshtina": "Горна Малина",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъчници",
+      "srok_koncesiya": "20 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6939963,
+        23.7059625
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000221",
+      "koncesioner": "",
+      "nahodishte": "Градище 2",
+      "obshtina": "Септември",
+      "oblast": "Пазарджик",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.219533,
+        24.1228361
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000220",
+      "koncesioner": "",
+      "nahodishte": "Долна махала",
+      "obshtina": "Калояново",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4166232,
+        24.7813431
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000218",
+      "koncesioner": "",
+      "nahodishte": "Ралица",
+      "obshtina": "Стамболово",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Бентонитов глини",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.7779838,
+        25.6441229
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "O-000441",
+      "koncesioner": "",
+      "nahodishte": "Искрец",
+      "obshtina": "Своге",
+      "oblast": "София",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Вар",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.9869388,
+        23.2523047
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000217",
+      "koncesioner": "",
+      "nahodishte": "Мездренски връх Мездра",
+      "obshtina": "",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Мергели",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.400307,
+        23.716675
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000216",
+      "koncesioner": "",
+      "nahodishte": "Черешата Враца",
+      "obshtina": "",
+      "oblast": "Враца",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Глинести мергели",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.400307,
+        23.716675
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000206",
+      "koncesioner": "",
+      "nahodishte": "Вeтово",
+      "obshtina": "",
+      "oblast": "Русе",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.7042823,
+        26.2636455
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000205",
+      "koncesioner": "",
+      "nahodishte": "Керемидките - у-к І Стамболово",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000204",
+      "koncesioner": "Велико Търново” АД,",
+      "nahodishte": "Търново,",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0820584,
+        25.6321312
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000203",
+      "koncesioner": "Велико Търново” АД,",
+      "nahodishte": "Русаля Велико Търново",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.1667921,
+        25.4567033
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000198",
+      "koncesioner": "",
+      "nahodishte": "Куза Стамболово",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Олигомикти",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000195",
+      "koncesioner": "материали\" АД, гр.",
+      "nahodishte": "Пет могили- изток Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "20 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.6073975,
+        25.4856617
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000192",
+      "koncesioner": "материали\" АД, гр.",
+      "nahodishte": "Негован Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "18 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.770616,
+        23.4053776
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000191",
+      "koncesioner": "материали\" АД, гр.",
+      "nahodishte": "Чепинци Столична",
+      "obshtina": "",
+      "oblast": "",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.7585157,
+        23.4259689
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000190",
+      "koncesioner": "",
+      "nahodishte": "Билкета",
+      "obshtina": "",
+      "oblast": "Хасково",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.763101,
+        25.9256255
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000186",
+      "koncesioner": "",
+      "nahodishte": "Димов дол Рудозем",
+      "obshtina": "",
+      "oblast": "Смолян",
+      "grupa_bogatstvo": "полезни",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "14 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        41.624097,
+        24.5913304
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000183",
+      "koncesioner": "",
+      "nahodishte": "Горно Езерово Камено, Бургас",
+      "obshtina": "",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4936616,
+        27.4721276
+      ],
+      "coordinate_confidence": "medium"
+    },
+    {
+      "id": "D-000182",
+      "koncesioner": "",
+      "nahodishte": "Новоселци-ІІІ Камено",
+      "obshtina": "",
+      "oblast": "Бургас",
+      "grupa_bogatstvo": "",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.4936616,
+        27.4721276
+      ],
+      "coordinate_confidence": "medium"
+    }
+  ]
+}
