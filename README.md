@@ -1,36 +1,145 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Минни концесии в България
 
-## Getting Started
+Интерактивна карта на минните концесии в България с точни координати и подробна информация за всяко находище.
 
-First, run the development server:
+## 🗺️ Функционалности
 
+- **Интерактивна карта** с Google Maps
+- **338+ минни находища** с точни GPS координати
+- **Подробна информация** за всяко находище при кликване
+- **Разширено филтриране** по:
+  - Област (регион)
+  - Тип минерал
+  - Статус на концесията
+  - Точност на координатите
+- **Търсене** по име на находище или концесионер
+- **Статистика** в реalno време
+- **Адаптивен дизайн** за мобилни устройства
+- **Автоматично групиране** на близки находища за по-добра производителност
+
+## 🚀 Бързо начало
+
+### Предпоставки
+
+- Node.js 18+ 
+- Google Maps API ключ
+
+### Инсталация
+
+1. Клонирайте репозиторията:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone [repository-url]
+cd concessions-map
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Инсталирайте зависимостите:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Създайте `.env.local` файл с вашия Google Maps API ключ:
+```bash
+cp .env.local.example .env.local
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Добавете вашия API ключ в `.env.local`:
+```
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+```
 
-## Learn More
+5. Стартирайте development сървъра:
+```bash
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+6. Отворете [http://localhost:3000](http://localhost:3000) в браузъра си.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔧 Технологии
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Next.js 15** - React framework с App Router
+- **TypeScript** - Type safety
+- **Google Maps JavaScript API** - Интерактивни карти
+- **@react-google-maps/api** - React интеграция за Google Maps
+- **@googlemaps/markerclusterer** - Групиране на маркери
+- **Tailwind CSS** - Стилизиране
+- **Lucide React** - Икони
 
-## Deploy on Vercel
+## 📊 Структура на данните
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Приложението използва JSON файл с информация за минните находища, включваща:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Идентификатор** на концесията
+- **Концесионер** (компания)
+- **Находище** (име на локацията)
+- **Община** и **Област**
+- **Тип минерал** и **Група богатство**
+- **GPS координати** (lat, lng)
+- **Статус** на концесията
+- **Точност** на координатите
+
+## 🗂️ Структура на проекта
+
+```
+├── app/                    # Next.js App Router
+│   ├── layout.tsx         # Основен layout
+│   └── page.tsx           # Главна страница
+├── components/            # React компоненти
+│   ├── Map/              # Карта компоненти
+│   │   └── GoogleMap.tsx # Главен карта компонент
+│   ├── Filters/          # Филтриране
+│   │   └── FilterPanel.tsx
+│   └── UI/               # UI компоненти
+│       └── Statistics.tsx
+├── lib/                  # Utilities
+│   ├── types.ts         # TypeScript типове
+│   └── utils.ts         # Помощни функции
+└── public/              # Статични файлове
+    └── mining_deposits.json # Данни за находищата
+```
+
+## 🔑 Google Maps API Setup
+
+1. Идете на [Google Cloud Console](https://console.cloud.google.com/)
+2. Създайте нов проект или изберете съществуващ
+3. Активирайте следните APIs:
+   - Maps JavaScript API
+   - Places API (опционално)
+4. Създайте API ключ
+5. Ограничете ключа за домейна ви (препоръчително)
+
+## 📱 Отзивчив дизайн
+
+Приложението е напълно оптимизирано за:
+- **Desktop** - Пълнофункционален интерфейс
+- **Tablet** - Адаптивен layout
+- **Mobile** - Сгъваем sidebar, touch-friendly контроли
+
+## 🚀 Deployment
+
+### Vercel (препоръчително)
+
+```bash
+npm run build
+vercel deploy
+```
+
+### Други платформи
+
+```bash
+npm run build
+npm start
+```
+
+## 🔧 Environment Variables
+
+| Variable | Description |
+|----------|-------------|
+| `NEXT_PUBLIC_GOOGLE_MAPS_API_KEY` | Google Maps API ключ |
+
+## 📄 Лиценз
+
+MIT License
+
+## 🤝 Принос
+
+Contributions are welcome! Please feel free to submit a Pull Request.

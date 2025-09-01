@@ -187,7 +187,7 @@
         43.7750934,
         23.7293313
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "216-223",
@@ -1479,16 +1479,16 @@
     {
       "id": "D-000695",
       "koncesioner": "",
-      "nahodishte": "Лисия Костинброд",
-      "obshtina": "",
+      "nahodishte": "Лисия",
+      "obshtina": "Костинброд",
       "oblast": "София",
       "grupa_bogatstvo": "",
       "vid_bogatstvo": "Пясък",
       "srok_koncesiya": "30 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6977028,
-        23.3217359
+        42.924329,
+        23.13528
       ],
       "coordinate_confidence": "medium"
     },
@@ -2355,17 +2355,33 @@
     },
     {
       "id": "D-000575",
-      "koncesioner": "Миал",
-      "nahodishte": "Мирково",
-      "obshtina": "",
+      "koncesioner": "\"Елаците - Мед\" АД, с.Мирково",
+      "nahodishte": "Миал",
+      "obshtina": "Мирково",
       "oblast": "София",
       "grupa_bogatstvo": "",
       "vid_bogatstvo": "доломити",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6794305,
-        23.3703056
+        42.6585933,
+        23.9874908
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000074",
+      "koncesioner": "\"Елаците - Мед\" АД, с.Мирково",
+      "nahodishte": "Елаците",
+      "obshtina": "Мирково",
+      "oblast": "София",
+      "grupa_bogatstvo": "Метални полезни изкопаеми",
+      "vid_bogatstvo": "Медно-порфирни, златосъдържащи, руди",
+      "srok_koncesiya": "17 г. +5 г. +10 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.652965,
+        23.9984501
       ],
       "coordinate_confidence": "high"
     },
@@ -2992,7 +3008,7 @@
     },
     {
       "id": "O-000689",
-      "koncesioner": "технолоджи\" ЕООД,",
+      "koncesioner": "Пролайф технолоджи ЕООД, гр. София",
       "nahodishte": "Четалеч",
       "obshtina": "Мирково",
       "oblast": "София",
@@ -3001,8 +3017,8 @@
       "srok_koncesiya": "20 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6794305,
-        23.3703056
+        42.6747355,
+        24.0027395
       ],
       "coordinate_confidence": "medium"
     },
@@ -3769,8 +3785,8 @@
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6977028,
-        23.3217359
+        42.4117661,
+        23.5307232
       ],
       "coordinate_confidence": "medium"
     },
