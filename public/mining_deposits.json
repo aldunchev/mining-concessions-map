@@ -1064,6 +1064,22 @@
       "coordinate_confidence": "medium"
     },
     {
+      "id": "D-000733",
+      "koncesioner": "ЕТ \"Инерт-94-Цветелин Петров\", гр. София",
+      "nahodishte": "Антената",
+      "obshtina": "София",
+      "oblast": "Столична",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Строителни материали",
+      "srok_koncesiya": "35 г.",
+      "status": "договорът не е влязъл в сила",
+      "coordinates": [
+        42.7632079,
+        23.3193951
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
       "id": "D-000720",
       "koncesioner": "",
       "nahodishte": "Сухата скала",
@@ -1097,17 +1113,17 @@
     },
     {
       "id": "D-000718",
-      "koncesioner": "",
+      "koncesioner": "Камико ООД, гр. София",
       "nahodishte": "Локорско",
       "obshtina": "Столична",
       "oblast": "София",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Вулкански туфи (трахиандезити)",
       "srok_koncesiya": "25 г.",
-      "status": "съгласуван",
+      "status": "процедура по съгласуване",
       "coordinates": [
-        42.7951658,
-        23.4476032
+        42.776791,
+        23.4582131
       ],
       "coordinate_confidence": "high"
     },
@@ -1446,17 +1462,17 @@
     },
     {
       "id": "D-000697",
-      "koncesioner": "Материали Рудината",
-      "nahodishte": "Столична",
-      "obshtina": "",
+      "koncesioner": "Холсим Кариерни Материали Рудината АД, гр. София",
+      "nahodishte": "Рудината, участък Ремо",
+      "obshtina": "Столична",
       "oblast": "София",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "варовити",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Доломити и варовити доломити",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.654318,
-        23.3331572
+        42.7702383,
+        23.4536279
       ],
       "coordinate_confidence": "high"
     },
@@ -1718,17 +1734,17 @@
     },
     {
       "id": "D-000659",
-      "koncesioner": "",
+      "koncesioner": "Рок Трейдинг ООД, гр. Девин",
       "nahodishte": "Поповяне",
       "obshtina": "Самоков",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.4257936,
-        23.3481773
+        42.4218151,
+        23.3483731
       ],
       "coordinate_confidence": "high"
     },
@@ -2114,6 +2130,22 @@
       "coordinate_confidence": "high"
     },
     {
+      "id": "D-000609",
+      "koncesioner": "Асарел - Медет АД, гр. Панагюрище",
+      "nahodishte": "Асарел, у-к \"Запад\"",
+      "obshtina": "Панагюрище, Златица, Чавдар",
+      "oblast": "Пазарджик, София",
+      "grupa_bogatstvo": "Метални полезни изкопаеми",
+      "vid_bogatstvo": "Медно-златни руди",
+      "srok_koncesiya": "15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.5369519,
+        24.1367924
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
       "id": "D-000608",
       "koncesioner": "Върба - Батанци",
       "nahodishte": "Мадан",
@@ -2485,15 +2517,15 @@
       "id": "D-000567",
       "koncesioner": "Али",
       "nahodishte": "Ихтиман",
-      "obshtina": "",
+      "obshtina": "Ихтиман",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Амфиболити",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.4384955,
-        23.8143825
+        42.503911,
+        23.7449191
       ],
       "coordinate_confidence": "high"
     },
@@ -2531,17 +2563,17 @@
     },
     {
       "id": "D-000563",
-      "koncesioner": "",
-      "nahodishte": "Костинброд",
-      "obshtina": "",
+      "koncesioner": "Инерт груп комерс ЕООД, гр. София",
+      "nahodishte": "Градец участъци Южен и Градище",
+      "obshtina": "Костинброд",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Варовици",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.7826011,
-        23.245722
+        42.8815249479484,
+        23.205800563350362
       ],
       "coordinate_confidence": "high"
     },
@@ -2686,6 +2718,22 @@
       "coordinates": [
         42.4934682,
         26.0090132
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000537",
+      "koncesioner": "Волф и Мюлер Минералс България ООД, гр. София",
+      "nahodishte": "Белица",
+      "obshtina": "Ихтиман",
+      "oblast": "София",
+      "grupa_bogatstvo": "Индивидуални минерали",
+      "vid_bogatstvo": "Вермикулитова суровина",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.51148757416118,
+        23.89644407751166
       ],
       "coordinate_confidence": "high"
     },
@@ -5189,6 +5237,22 @@
       "coordinates": [
         42.9869388,
         23.2523047
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "O-000040",
+      "koncesioner": "Главболгарстрой АД, гр. София",
+      "nahodishte": "Бов",
+      "obshtina": "Своге",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Диабазови брекчи",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.03219588375239,
+        23.377266203934028
       ],
       "coordinate_confidence": "high"
     },
