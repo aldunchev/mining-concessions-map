@@ -2950,14 +2950,30 @@
       "koncesioner": "",
       "nahodishte": "Козяк",
       "obshtina": "Сливница",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "oblast": "София",
+      "grupa_bogatstvo": "Индивидуални минерали",
       "vid_bogatstvo": "Варовици",
       "srok_koncesiya": "30 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.8479452,
-        22.9915286
+        42.87115021461853,
+        23.014218908595918
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000477",
+      "koncesioner": "МДЗ - Балша АД, с. Балша",
+      "nahodishte": "Люляците",
+      "obshtina": "Костинброд",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Варовици и доломити",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.870648930531296,
+        23.20435500713461
       ],
       "coordinate_confidence": "high"
     },
@@ -5253,6 +5269,22 @@
       "coordinates": [
         43.03219588375239,
         23.377266203934028
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000503",
+      "koncesioner": "Камъни и пясък ЕООД, гр. София",
+      "nahodishte": "Крива бара",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Баластра (Пясъци и чакъли)",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.68535111004041,
+        23.433190092501857
       ],
       "coordinate_confidence": "high"
     },
