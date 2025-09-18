@@ -2578,6 +2578,38 @@
       "coordinate_confidence": "high"
     },
     {
+      "id": "D-000470",
+      "koncesioner": "Инфрастуктурно Строителство АД, гр. София",
+      "nahodishte": "Целовижда",
+      "obshtina": "Костинброд",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Варовици, доломити и пясъци",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.86152881943432,
+        22.997684923048446
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000449",
+      "koncesioner": "Плена България ЕООД, гр. София",
+      "nahodishte": "Дръмски Връх",
+      "obshtina": "Драгоман",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Варовици",
+      "srok_koncesiya": "25 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.90414344848316,
+        23.00433604063121
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
       "id": "D-000562",
       "koncesioner": "Рафаело",
       "nahodishte": "Макреш",
