@@ -3216,17 +3216,17 @@
     },
     {
       "id": "D-000417",
-      "koncesioner": "Минералс България",
+      "koncesioner": "Волф и Мюлер Минералс България ООД, гр. София",
       "nahodishte": "Верона",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "",
+      "obshtina": "Ихтиман, Панагюрище",
+      "oblast": "София, Пазарджик",
+      "grupa_bogatstvo": "Индустриални минерали",
+      "vid_bogatstvo": "Вермикулитова суровина",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.7294069,
-        23.3033381
+        42.490368732059004,
+        23.963327029748818
       ],
       "coordinate_confidence": "high"
     },
@@ -3248,19 +3248,19 @@
     },
     {
       "id": "D-000415",
-      "koncesioner": "",
+      "koncesioner": "Ватия Холдинг АД, гр. София",
       "nahodishte": "Побит какък",
       "obshtina": "Елин Пелин",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Индустриални минерали",
       "vid_bogatstvo": "Кварцови пясъци",
       "srok_koncesiya": "20 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.7173302,
-        23.16363
+        41.817739840484876,
+        23.869328643424193
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "O-000600",
@@ -3280,17 +3280,17 @@
     },
     {
       "id": "D-000414",
-      "koncesioner": "",
+      "koncesioner": "Ватия Холдинг АД, гр. София",
       "nahodishte": "Гърмище",
       "obshtina": "Драгоман",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Индустриални минерали",
       "vid_bogatstvo": "Огнеупорни глини",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6758405,
-        23.2609051
+        43.00694300949788,
+        22.897766439832434
       ],
       "coordinate_confidence": "medium"
     },
@@ -3760,17 +3760,34 @@
     },
     {
       "id": "D-000388",
-      "koncesioner": "",
+      "koncesioner": "Ватия Холдинг АД, гр. София",
       "nahodishte": "Бистрица",
-      "obshtina": "Столична",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Индустриални минерали",
       "vid_bogatstvo": "Огнеупорна пръст",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
         42.5861626,
         23.3601017
+      ],
+      "coordinate_confidence": "high",
+      "notes": "Не мога да го намеря на пдф-а."
+    },
+    {
+      "id": "D-000374",
+      "koncesioner": "Ойровер Спорт ООД, гр. София",
+      "nahodishte": "Ливаде",
+      "obshtina": "Ихтиман",
+      "oblast": "София",
+      "grupa_bogatstvo": "Индустриални минерали",
+      "vid_bogatstvo": "Вермикулитова суровина",
+      "srok_koncesiya": "20 г. + 30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.50820413843955,
+        23.96005071872833
       ],
       "coordinate_confidence": "high"
     },
@@ -3888,19 +3905,19 @@
     },
     {
       "id": "D-000345",
-      "koncesioner": "",
-      "nahodishte": "Хидроекопим - 1 Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "koncesioner": "Хидроеко Пим ООД, гр. София",
+      "nahodishte": "Хидроекопим - 1",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6073975,
-        25.4856617
+        42.743812613135994,
+        23.461634190153504
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000344",
@@ -3984,17 +4001,17 @@
     },
     {
       "id": "D-000338",
-      "koncesioner": "",
+      "koncesioner": "Мив Кънстракшън ЕАД. гр. София",
       "nahodishte": "Кубратово - 1 Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци  и чакъли",
       "srok_koncesiya": "35 г.",
-      "status": "съгласуван",
+      "status": "процедура по съгласуване",
       "coordinates": [
-        42.7731157,
-        23.3603097
+        42.77513632575138,
+        23.35841982272341
       ],
       "coordinate_confidence": "high"
     },
@@ -4016,17 +4033,17 @@
     },
     {
       "id": "D-000336",
-      "koncesioner": "",
-      "nahodishte": "Подгумер Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "koncesioner": "Ватия Холдинг АД, гр. София",
+      "nahodishte": "Подгумер",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Индустриални материали",
       "vid_bogatstvo": "Кварцови пясъци",
       "srok_koncesiya": "19 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.8029001,
-        23.4036368
+        42.80758223621324,
+        23.394435640700245
       ],
       "coordinate_confidence": "high"
     },
@@ -4112,33 +4129,33 @@
     },
     {
       "id": "D-000326",
-      "koncesioner": "",
-      "nahodishte": "Станянци Годеч",
-      "obshtina": "",
+      "koncesioner": "Мина Станянци",
+      "nahodishte": "Станянци",
+      "obshtina": "Годеч",
       "oblast": "София",
       "grupa_bogatstvo": "Твърди горива",
       "vid_bogatstvo": "Въглища",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        43.0463811,
-        22.9214155
+        43.04765871491205,
+        22.91943870588213
       ],
       "coordinate_confidence": "high"
     },
     {
       "id": "D-000325",
-      "koncesioner": "",
-      "nahodishte": "Брезник,",
-      "obshtina": "",
+      "koncesioner": "Мин Индъстри ЕООД, гр. София",
+      "nahodishte": "Пернишки въглищен басейн",
+      "obshtina": "Перник",
       "oblast": "София",
       "grupa_bogatstvo": "Твърди горива",
       "vid_bogatstvo": "Кафяви въглища",
       "srok_koncesiya": "10 г. + 15 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.7067276,
-        23.3596516
+        42.60875905046931,
+        22.98090874790885
       ],
       "coordinate_confidence": "high"
     },
@@ -4176,17 +4193,17 @@
     },
     {
       "id": "D-000319",
-      "koncesioner": "",
-      "nahodishte": "Бели брег Драгоман",
-      "obshtina": "",
+      "koncesioner": "Мина Бели брег",
+      "nahodishte": "Бели брег",
+      "obshtina": "Драгоман",
       "oblast": "София",
       "grupa_bogatstvo": "Твърди горива",
       "vid_bogatstvo": "Въглища",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.8703107,
-        22.8544499
+        42.90039461266842,
+        22.804454556666
       ],
       "coordinate_confidence": "high"
     },
@@ -4618,17 +4635,17 @@
     },
     {
       "id": "D-000278",
-      "koncesioner": "",
+      "koncesioner": "Витез Проспект АД, гр. София",
       "nahodishte": "Скравена",
       "obshtina": "Ботевград",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Доломити",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.9517131,
-        23.7686707
+        42.95184038865558,
+        23.764935565907248
       ],
       "coordinate_confidence": "high"
     },
@@ -4906,17 +4923,17 @@
     },
     {
       "id": "D-000251",
-      "koncesioner": "",
+      "koncesioner": "МСЕ-2001 ООД, гр. София",
       "nahodishte": "Селимица",
-      "obshtina": "Столична",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "15 г. + 15 г.",
-      "status": "съгласуван",
+      "status": "процедура по съгласуване",
       "coordinates": [
-        42.7052889,
-        23.3787223
+        42.573823855266895,
+        23.24441172025108
       ],
       "coordinate_confidence": "high"
     },
@@ -4954,17 +4971,17 @@
     },
     {
       "id": "D-000246",
-      "koncesioner": "Материали Рудината",
+      "koncesioner": "Холсим Кариерни Материали Рудината, АД, гр. София",
       "nahodishte": "Рудината",
-      "obshtina": "Столична",
-      "oblast": "",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Доломитизирани варовици",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.77879,
-        23.54731
+        42.77547485210789,
+        23.551176838646004
       ],
       "coordinate_confidence": "high"
     },
@@ -5194,33 +5211,33 @@
     },
     {
       "id": "D-000224",
-      "koncesioner": "инженеринг” АД, гр.",
+      "koncesioner": "Транскомплект инженеринг АД, гр. София",
       "nahodishte": "Долни Богров ІІ",
-      "obshtina": "Столична",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.701289,
-        23.4911834
+        42.68599271448217,
+        23.50055700776851
       ],
       "coordinate_confidence": "high"
     },
     {
       "id": "D-000222",
-      "koncesioner": "Димитър Димитров”,",
+      "koncesioner": "ЕТ САМ – ДПД – Димитър Димитров”, гр. София",
       "nahodishte": "Исланица",
       "obshtina": "Горна Малина",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъчници",
       "srok_koncesiya": "20 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6939963,
-        23.7059625
+        42.63622436823033,
+        23.6065934197126
       ],
       "coordinate_confidence": "medium"
     },
@@ -5274,17 +5291,33 @@
     },
     {
       "id": "O-000441",
-      "koncesioner": "",
+      "koncesioner": "Балканагросервиз ЕООД, гр. София",
       "nahodishte": "Искрец",
       "obshtina": "Своге",
       "oblast": "София",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Вар",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.9869388,
-        23.2523047
+        42.98712903044973,
+        23.25054860437807
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000215",
+      "koncesioner": "MБС ЕАД, гр. София",
+      "nahodishte": "Хвостохранилище Медет",
+      "obshtina": "Златица, Пирдоп",
+      "oblast": "София",
+      "grupa_bogatstvo": "Минни отпадъци",
+      "vid_bogatstvo": "Производствени технологични отпадъци",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.67171248336647,
+        24.189729554099745
       ],
       "coordinate_confidence": "high"
     },
@@ -5434,49 +5467,113 @@
     },
     {
       "id": "D-000195",
-      "koncesioner": "материали\" АД, гр.",
-      "nahodishte": "Пет могили- изток Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "koncesioner": "Холсим – Кариерни материали АД, гр. София",
+      "nahodishte": "Пет могили - изток",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "20 г. + 15 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.6073975,
-        25.4856617
+        42.702089918856686,
+        23.429273046018807
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000192",
-      "koncesioner": "материали\" АД, гр.",
-      "nahodishte": "Негован Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "koncesioner": "Холсим – Кариерни материали АД, гр. София",
+      "nahodishte": "Негован",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "18 г. + 15 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.770616,
-        23.4053776
+        42.78127542089476,
+        23.40790549299518
       ],
       "coordinate_confidence": "high"
     },
     {
       "id": "D-000191",
-      "koncesioner": "материали\" АД, гр.",
-      "nahodishte": "Чепинци Столична",
-      "obshtina": "",
-      "oblast": "",
-      "grupa_bogatstvo": "",
+      "koncesioner": "Холсим – Кариерни материали АД, гр. София",
+      "nahodishte": "Чепинци",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.7585157,
-        23.4259689
+        42.764167523167096,
+        23.44547562196416
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000161",
+      "koncesioner": "Транскомплект инженеринг АД, гр. София",
+      "nahodishte": "Кривина",
+      "obshtina": "София",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "25 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.679089749185415,
+        23.451381304007853
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000147",
+      "koncesioner": "Пътстрой 92 АД, гр. София",
+      "nahodishte": "Ръждавец",
+      "obshtina": "Ботевград",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Пясъци и чакъли",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.98237190706739,
+        23.758059968293296
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000146",
+      "koncesioner": "Пътстрой 92 АД, гр. София",
+      "nahodishte": "Годеч",
+      "obshtina": "Годеч",
+      "oblast": "София",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Варовици и доломити",
+      "srok_koncesiya": "35 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        43.0121055395243,
+        23.08337549887525
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000034",
+      "koncesioner": "Дънди Прешъс Металс Челопеч ЕАД, с. Челопеч",
+      "nahodishte": "Челопеч",
+      "obshtina": "Челопеч",
+      "oblast": "София",
+      "grupa_bogatstvo": "Метални полезни изкопаеми",
+      "vid_bogatstvo": "Златно-медно-пиритни руди",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.69189891584845,
+        24.085958459563656
       ],
       "coordinate_confidence": "high"
     },
