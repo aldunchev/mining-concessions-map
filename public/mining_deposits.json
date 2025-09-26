@@ -447,17 +447,17 @@
     },
     {
       "id": "D-000844",
-      "koncesioner": "Дрянка-запад\" и",
-      "nahodishte": "Първомай",
-      "obshtina": "",
+      "koncesioner": "Агрострой 07 ООД, гр. Първомай",
+      "nahodishte": "Дрянка, у-ци Дрянка-запад и Дрянка-център",
+      "obshtina": "Първомай",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Пясъци и чакъли(баластра)",
       "srok_koncesiya": "35 г.",
-      "status": "съгласуван",
+      "status": "процедура по съгласуване",
       "coordinates": [
-        42.09946,
-        25.2247171
+        42.06390998569524,
+        25.161982925375167
       ],
       "coordinate_confidence": "high"
     },
@@ -1590,35 +1590,35 @@
     },
     {
       "id": "D-000677",
-      "koncesioner": "Материали Пловдив",
-      "nahodishte": "Инджова върба - 2 Калояново",
-      "obshtina": "",
+      "koncesioner": "Холсим Кариерни Материали Пловдив АД, фр. Пловдив",
+      "nahodishte": "Инджова върба - 2",
+      "obshtina": "Калояново",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.1418541,
-        24.7499297
+        42.35141789760267,
+        24.80470551042122
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000676",
-      "koncesioner": "",
-      "nahodishte": "\"Бунилото-изток\" и Родопи",
-      "obshtina": "",
+      "koncesioner": "Еолит ООД, гр. Пловдив",
+      "nahodishte": "Бунилото-изток и Бунилото-запад",
+      "obshtina": "Родопи",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "облицовъчни",
+      "grupa_bogatstvo": "Скално-облицовъчни материали",
       "vid_bogatstvo": "Гнайсошисти",
       "srok_koncesiya": "35 г.",
-      "status": "съгласуван",
+      "status": "договорът не е влязъл в сила",
       "coordinates": [
-        42.1418541,
-        24.7499297
+        42.0417584684277,
+        24.63676373916016
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000674",
@@ -1702,19 +1702,19 @@
     },
     {
       "id": "D-000664",
-      "koncesioner": "",
+      "koncesioner": "НВГ Кариери ООД, гр. Пловдив",
       "nahodishte": "Старите колиби",
       "obshtina": "Асеновград",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Мрамори",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.0073633,
-        24.8762702
+        41.969886014780975,
+        24.925866046554965
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000662",
@@ -2019,17 +2019,17 @@
     },
     {
       "id": "D-000632",
-      "koncesioner": "",
-      "nahodishte": "Долно Белотинци",
-      "obshtina": "Монтана",
-      "oblast": "Монтана",
-      "grupa_bogatstvo": "",
-      "vid_bogatstvo": "Варовици",
-      "srok_koncesiya": "35 г.",
+      "koncesioner": "Запрянови - 03 ООД, гр. Асеновград",
+      "nahodishte": "Чайкъра",
+      "obshtina": "Асеновград",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Пясъци и чакъли (баластра)",
+      "srok_koncesiya": "13 г. + 12 г.",
       "status": "съгласуван",
       "coordinates": [
-        43.43842,
-        23.28765
+        42.05572813380465,
+        24.863949568583436
       ],
       "coordinate_confidence": "high"
     },
@@ -2275,17 +2275,17 @@
     },
     {
       "id": "D-000585",
-      "koncesioner": "Каваклъка",
-      "nahodishte": "Асеновград",
-      "obshtina": "",
+      "koncesioner": "Литос Комерс ЕООД, гр. Асеновград",
+      "nahodishte": "Каваклъка",
+      "obshtina": "Асеновград",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Баластра",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.0073633,
-        24.8762702
+        42.01536785572031,
+        24.929989782027054
       ],
       "coordinate_confidence": "high"
     },
@@ -2659,17 +2659,17 @@
     },
     {
       "id": "D-000558",
-      "koncesioner": "Стряма 2",
-      "nahodishte": "Калояново",
-      "obshtina": "",
+      "koncesioner": "Водстрой Пловдив АД, гр. Пловдив",
+      "nahodishte": "Стряма 2",
+      "obshtina": "Калояново",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "10 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.3952895,
-        24.7655768
+        42.364680698926584,
+        24.80693432326273
       ],
       "coordinate_confidence": "high"
     },
@@ -2815,7 +2815,39 @@
         42.0519345,
         24.6811145
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000495",
+      "koncesioner": "Холсим Кариерни Материали Пловдив АД, гр. Пловдив",
+      "nahodishte": "Белащица - родопи",
+      "obshtina": "Родопи",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Мрамори",
+      "srok_koncesiya": "20 г.",
+      "status": "изтекъл договор",
+      "coordinates": [
+        42.08688925749676,
+        24.67269540053467
+      ],
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000495",
+      "koncesioner": "Холсим Кариерни Материали Пловдив АД, гр. Пловдив",
+      "nahodishte": "Ахматово",
+      "obshtina": "Садово",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Пясъци",
+      "srok_koncesiya": "20 г. + 15 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.124749613366674,
+        24.95666016566202
+      ],
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000493",
@@ -2867,19 +2899,19 @@
     },
     {
       "id": "D-000735",
-      "koncesioner": "",
+      "koncesioner": "Еурострой ООД, с. Катуница",
       "nahodishte": "Стоянчова чешма",
       "obshtina": "Садово",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Баластра",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.1342256,
-        24.9374825
+        42.056855692361786,
+        24.87356719264733
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000490",
@@ -2963,19 +2995,19 @@
     },
     {
       "id": "D-000483",
-      "koncesioner": "",
+      "koncesioner": "Водстрой Пловдив АД, гр. Пловдив",
       "nahodishte": "Стряма 1",
       "obshtina": "Калояново",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.3952895,
-        24.7655768
+        42.32368008412768,
+        24.807746417396356
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000481",
@@ -3680,17 +3712,17 @@
     },
     {
       "id": "D-000393",
-      "koncesioner": "",
+      "koncesioner": "Диспиан - Строй ООД, гр. Смолян",
       "nahodishte": "Чифлика",
-      "obshtina": "",
+      "obshtina": "Асеновград",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "25 г.",
       "status": "съгласуван",
       "coordinates": [
-        41.9648213,
-        24.6195678
+        42.05240828212524,
+        24.86597448630618
       ],
       "coordinate_confidence": "high"
     },
@@ -4065,19 +4097,35 @@
     },
     {
       "id": "D-000334",
-      "koncesioner": "",
-      "nahodishte": "Яковия чифлик Асеновград",
-      "obshtina": "",
+      "koncesioner": "Баластриери ЕООД, гр. Пловдив",
+      "nahodishte": "Яковия чифлик",
+      "obshtina": "Асеновград",
       "oblast": "Пловдив",
-      "grupa_bogatstvo": "",
+      "grupa_bogatstvo": "Строителни материали",
       "vid_bogatstvo": "Пясъци и чакъли",
       "srok_koncesiya": "35 г.",
       "status": "съгласуван",
       "coordinates": [
-        42.1418541,
-        24.7499297
+        42.05315989296108,
+        24.874326180966115
       ],
-      "coordinate_confidence": "medium"
+      "coordinate_confidence": "high"
+    },
+    {
+      "id": "D-000455",
+      "koncesioner": "Тракия Керам ЕООД, гр. Пловдив",
+      "nahodishte": "Батака",
+      "obshtina": "Куклен",
+      "oblast": "Пловдив",
+      "grupa_bogatstvo": "Строителни материали",
+      "vid_bogatstvo": "Глини",
+      "srok_koncesiya": "30 г.",
+      "status": "съгласуван",
+      "coordinates": [
+        42.07898418940208,
+        24.675159008610795
+      ],
+      "coordinate_confidence": "high"
     },
     {
       "id": "D-000332",
